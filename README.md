@@ -1,16 +1,33 @@
-## Hi there 👋
+# Привет, я Всеволод! 👋
 
-<!--
-**Urushihara24/Urushihara24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior QA Engineer
 
-Here are some ideas to get you started:
+Я — начинающий QA-инженер с фокусом на ручном тестировании и автоматизации рутинных задач с помощью Python. Мне нравится находить нетривиальные проблемы в продуктах и создавать инструменты, которые делают работу команды эффективнее.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Ключевые навыки
+
+*   **Тестирование:** Ручное функциональное, API-тестирование (Postman), UI/UX, Регрессионное.
+*   **Языки:** Python, SQL.
+*   **Инструменты:** Git, Jira, Charles, DevTools, ADB.
+*   **Библиотеки Python:** requests, pandas, openpyxl, gspread.
+*   **Базы данных:** PostgreSQL, MySQL.
+
+---
+
+### 🚀 Мои проекты
+
+Здесь я делюсь своими самыми интересными проектами. Это не просто учебные задания, а реальные инструменты, которые я создавал по собственной инициативе для решения конкретных проблем.
+
+| Проект | Описание | Технологии |
+|---|---|---|
+| **Скрипт для склада** | Автоматизированный скрипт для анализа складских мощностей, сокративший время расчетов с часов до минут. | `Python`, `SQL`, `pandas`, `Google Sheets API` |
+| **Приложение «WBHelp»** | Многофункциональный сервис для обратной связи и операционных задач для команды из 50+ человек. | `Python`, `HTML/CSS`, `Android (UI)`, `Telegram API` |
+
+---
+
+### 📫 Как связаться со мной
+
+*   **Email:** i@urushihara24.ru
+*   **Telegram:** @urushihara24
