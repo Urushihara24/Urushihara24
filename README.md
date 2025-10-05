@@ -43,51 +43,84 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 🤖 [Exportum Bot](https://github.com/Urushihara24/Exportum_bot)
-#### Telegram-бот для торговли зерновыми
+### 📱 [WBHelp — Employee Assistant](https://github.com/Urushihara24/employee-feedback-app)
+#### Многофункциональный сервис для команды
 
-Комплексное решение с интеграцией Google Sheets, управлением сделками, логистикой и парсингом цен с сайтов.
+Веб/Android приложение для обратной связи и управления задачами в команде 50+ человек. От веб-версии до нативного Android-приложения.
+
+**Ключевые особенности:**
+- 📨 Система обратной связи с Telegram уведомлениями
+- ✅ Модуль проверки задач в реальном времени
+- 🔄 Интеграция с Google Sheets API
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+
+**Результат:** ⚡ Сократил время реакции на 90%+
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### 📊 [Скрипт для склада](https://github.com/Urushihara24/warehouse-capacity-script)
-#### Автоматизация складских мощностей
+### 📦 [Warehouse Capacity Script](https://github.com/Urushihara24/warehouse-capacity-script)
+#### Автоматизация складского учета
 
-Сократил время расчетов с часов до минут благодаря автоматизированному анализу и отчетности.
+Python-скрипт для анализа и контроля складских мощностей. Автоматизирует расчеты заполненности по категориям, этажам и рядам.
+
+**Ключевые особенности:**
+- 📊 Подключение к API и получение данных
+- 🐼 Обработка с помощью Pandas
+- 📄 Генерация Excel-отчетов и обновление Google Sheets
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+**Результат:** ⏱️ С 2-3 часов до 5 минут (97% сокращение)
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📱 [Приложение WBHelp](https://github.com/Urushihara24/employee-feedback-app)
-#### Сервис обратной связи
+### 🌾 [Exportum Bot](https://github.com/Urushihara24/Exportum_bot)
+#### Telegram-бот для торговли зерном
 
-Многофункциональный сервис для операционных задач команды из 50+ человек.
+Комплексное решение для автоматизации зерновой торговли. Управление сделками, логистика, парсинг цен и автоматический матчинг.
+
+**Ключевые особенности:**
+- 👥 Регистрация с полными реквизитами (ИНН, КПП, ОГРН)
+- 🌾 Создание и управление партиями зерна
+- 🔄 Автоматический поиск совпадений
+- 💰 Парсинг актуальных цен (РФ, FOB, CBoT)
+- 🚚 Заявки на логистику
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
+
+**Результат:** 🤝 Объединил фермеров, трейдеров и логистов на одной платформе
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### 🧪 [QA Portfolio](https://github.com/Urushihara24/qa-portfolio)
-#### Портфолио тестировщика
+### 🤖 [HR Bot](https://github.com/Urushihara24/HR-bot)
+#### Telegram-бот для подбора персонала
 
-Чек-листы, тест-кейсы и баг-репорты для приложений "Яндекс Метро" и "Яндекс.Маршруты".
+Автоматизация HR-процессов: управление вакансиями, автоматический подбор кандидатов и обработка откликов через Telegram.
 
-![Testing](https://img.shields.io/badge/Testing-FF6C37?style=flat&logo=testing-library&logoColor=white)
-![Documentation](https://img.shields.io/badge/Documentation-0052CC?style=flat&logo=read-the-docs&logoColor=white)
+**Ключевые особенности:**
+- 📝 Создание и управление вакансиями
+- 👤 База кандидатов с фильтрацией
+- 🔍 Автоматический поиск подходящих кандидатов
+- 📊 Статистика по вакансиям
+- 🔔 Уведомления о новых откликах
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+**Результат:** 🚀 Упростил процесс рекрутинга для HR-отдела
 
 </td>
 </tr>
@@ -148,9 +181,10 @@
 
 </div>
 
-- 🔧 Разработал Python-скрипт для автоматизации анализа складских мощностей
-- 📱 Создал приложение для обратной связи сотрудников (50+ пользователей)
+- 🔧 Разработал Python-скрипт для автоматизации анализа складских мощностей (сокращение времени на 97%)
+- 📱 Создал WBHelp — приложение для обратной связи сотрудников (50+ активных пользователей)
 - ⚡ Оптимизировал рабочие процессы через автоматизацию рутинных задач
+- 📊 Внедрил систему мониторинга складских показателей в реальном времени
 
 ---
 
@@ -164,12 +198,16 @@
 *Курс "Инженер по тестированию"*  
 **2024**
 
+Освоил методологии тестирования, работу с документацией, API-тестирование и инструменты QA
+
 </td>
 <td width="50%" align="center">
   
-**💼 Self-taught**  
+**💼 Self-taught Developer**  
 *Python разработка и автоматизация*  
 **2023-2025**
+
+Самостоятельное изучение Python, создание Telegram-ботов, работа с API и базами данных
 
 </td>
 </tr>
@@ -187,7 +225,7 @@
 
 <br>
 
-📧 **Email:** i@urushihara24.ru  
+📧 **Email:** [i@urushihara24.ru](mailto:i@urushihara24.ru)  
 💬 **Telegram:** @urushihara24  
 📍 **Локация:** Казань, Россия
 
@@ -205,10 +243,11 @@
 
 <div align="left">
 
-- 🤖 Создание Telegram-ботов
-- 📊 Автоматизация работы с данными  
+- 🤖 Создание Telegram-ботов и автоматизация
+- 📊 Работа с данными и аналитика  
 - 🧪 Тестирование и обеспечение качества
-- 🚀 Изучение новых технологий
+- 🚀 Изучение новых технологий и инструментов
+- 💡 Разработка решений для реальных проблем
 
 </div>
 
@@ -221,9 +260,10 @@
 
 - [ ] Освоить автоматизацию тестирования (Selenium, pytest)
 - [ ] Углубить знания в API тестировании  
-- [ ] Получить сертификацию ISTQB
-- [ ] Создать 5+ open-source проектов
+- [ ] Получить сертификацию ISTQB Foundation Level
+- [ ] Создать 5+ open-source проектов на GitHub
 - [ ] Участвовать в open-source сообществе
+- [ ] Развить навыки CI/CD и DevOps
 
 </div>
 
@@ -233,18 +273,56 @@
 
 ---
 
+## 📊 Статистика проектов
+
 <div align="center">
 
-### 📈 Активность
+<table width="90%">
+<tr>
+<td align="center" width="25%">
+
+**🚀 Проектов**  
+4
+
+</td>
+<td align="center" width="25%">
+
+**💻 Строк кода**  
+15,000+
+
+</td>
+<td align="center" width="25%">
+
+**👥 Пользователей**  
+50+
+
+</td>
+<td align="center" width="25%">
+
+**⚡ Экономия времени**  
+100+ часов/месяц
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Активность на GitHub
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Urushihara24&theme=react-dark&hide_border=true&area=true" width="100%">
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Urushihara24&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=Urushihara24&color=blueviolet&style=for-the-badge&label=VISITORS)
 
 ### ⭐️ *From [Urushihara24](https://github.com/Urushihara24) with* ❤️
 
 *"Quality is not an act, it is a habit."* — Aristotle
 
 </div>
+
