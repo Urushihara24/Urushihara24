@@ -39,12 +39,12 @@
 
 > *Здесь я делюсь своими самыми интересными проектами. Это не просто учебные задания, а реальные инструменты, которые я создавал по собственной инициативе для решения конкретных проблем.*
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🤖 [Exportum Bot](https://github.com/Urushihara24/Exportum_bot)
-**Telegram-бот для торговли зерновыми**
+#### Telegram-бот для торговли зерновыми
 
 Комплексное решение с интеграцией Google Sheets, управлением сделками, логистикой и парсингом цен с сайтов.
 
@@ -53,10 +53,10 @@
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 📊 [Скрипт для склада](https://github.com/Urushihara24/warehouse-capacity-script)
-**Автоматизация складских мощностей**
+#### Автоматизация складских мощностей
 
 Сократил время расчетов с часов до минут благодаря автоматизированному анализу и отчетности.
 
@@ -67,10 +67,10 @@
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 📱 [Приложение WBHelp](https://github.com/Urushihara24/employee-feedback-app)
-**Сервис обратной связи**
+#### Сервис обратной связи
 
 Многофункциональный сервис для операционных задач команды из 50+ человек.
 
@@ -79,10 +79,10 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🧪 [QA Portfolio](https://github.com/Urushihara24/qa-portfolio)
-**Портфолио тестировщика**
+#### Портфолио тестировщика
 
 Чек-листы, тест-кейсы и баг-репорты для приложений "Яндекс Метро" и "Яндекс.Маршруты".
 
@@ -141,8 +141,12 @@
 
 ## 📈 Опыт работы
 
+<div align="center">
+
 ### 🏢 **Wildberries** | *2023-2024*
-#### Старший специалист складского комплекса
+**Старший специалист складского комплекса**
+
+</div>
 
 - 🔧 Разработал Python-скрипт для автоматизации анализа складских мощностей
 - 📱 Создал приложение для обратной связи сотрудников (50+ пользователей)
@@ -152,20 +156,20 @@
 
 ## 🎓 Образование
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" align="center">
   
 **📚 Яндекс.Практикум**  
 *Курс "Инженер по тестированию"*  
-2024
+**2024**
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
   
 **💼 Self-taught**  
 *Python разработка и автоматизация*  
-2023-2025
+**2023-2025**
 
 </td>
 </tr>
@@ -183,9 +187,9 @@
 
 <br>
 
-**📧 Email:** i@urushihara24.ru  
-**💬 Telegram:** @urushihara24  
-**📍 Локация:** Казань, Россия
+📧 **Email:** i@urushihara24.ru  
+💬 **Telegram:** @urushihara24  
+📍 **Локация:** Казань, Россия
 
 </div>
 
@@ -193,25 +197,35 @@
 
 ## 🌟 Интересы & Цели
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🌟 Интересы
+
+<div align="left">
+
 - 🤖 Создание Telegram-ботов
 - 📊 Автоматизация работы с данными  
 - 🧪 Тестирование и обеспечение качества
 - 🚀 Изучение новых технологий
 
+</div>
+
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 💡 Цели на 2025
+
+<div align="left">
+
 - [ ] Освоить автоматизацию тестирования (Selenium, pytest)
 - [ ] Углубить знания в API тестировании  
 - [ ] Получить сертификацию ISTQB
 - [ ] Создать 5+ open-source проектов
 - [ ] Участвовать в open-source сообществе
+
+</div>
 
 </td>
 </tr>
@@ -234,4 +248,3 @@
 *"Quality is not an act, it is a habit."* — Aristotle
 
 </div>
-
