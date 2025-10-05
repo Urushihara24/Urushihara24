@@ -6,7 +6,11 @@
 
 *Я — начинающий QA-инженер с фокусом на ручном тестировании, автоматизации и разработке инструментов на Python. Мне нравится находить нетривиальные проблемы в продуктах и создавать решения, которые делают работу команды эффективнее.*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=QA+Engineer;Python+Developer;Automation+Enthusiast)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=QA+Engineer;Python+Developer;Automation+Enthusiast)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
