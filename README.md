@@ -2,7 +2,7 @@
 
 # Привет, я Всеволод! 👋
 
-### Junior QA Engineer | Python Developer
+###  QA Engineer | Python Developer
 
 <p align="center">
   <em>Я — начинающий QA-инженер с фокусом на ручном тестировании, автоматизации и разработке инструментов на Python.<br>
