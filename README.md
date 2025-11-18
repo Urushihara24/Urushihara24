@@ -1,12 +1,10 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<h1 id="top" align="center">Привет, я Всеволод! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=QA+Engineer;Python+Developer;Automation+Enthusiast" alt="Typing SVG" /></a>
-</p>
-
 <div align="center">
+
+# Привет, я Всеволод! 👋
+
+###  QA Engineer | Python Developer
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Urushihara24&label=Profile%20Views&color=F75C7E&style=flat-square" alt="Views" height="21" /> 
@@ -14,60 +12,36 @@
   <img src="https://img.shields.io/github/stars/Urushihara24?label=Stars&color=F75C7E&style=flat-square" alt="Stars" height="21" />
 </p>
 
-![Яндекс Практикум](https://img.shields.io/badge/Яндекс.Практикум_2025-QA_Graduate-red?style=for-the-badge&logoColor=white)
-![Active Users](https://img.shields.io/badge/Активных_пользователей-50+-00C853?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Time Saved](https://img.shields.io/badge/Экономия_времени-97%25-FF6D00?style=for-the-badge&logo=clockify&logoColor=white)
+<p align="center">
+  <em>Я — начинающий QA-инженер с фокусом на ручном тестировании, автоматизации и разработке инструментов на Python.<br>
+  Мне нравится находить нетривиальные проблемы в продуктах и создавать решения, которые делают работу команды эффективнее.</em>
+</p>
 
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=QA+Engineer;Python+Developer;Automation+Enthusiast)](https://git.io/typing-svg)
 
-<span>[<kbd> <br> О себе <br> </kbd>](#о-себе)</span>
 <span>[<kbd> <br> Навыки <br> </kbd>](#-ключевые-навыки)</span>
 <span>[<kbd> <br> Проекты <br> </kbd>](#-мои-проекты)</span>
+<span>[<kbd> <br> Статистика <br> </kbd>](#-github-analytics)</span>
+<span>[<kbd> <br> Технологии <br> </kbd>](#️-технологический-стек)</span>
 <span>[<kbd> <br> Опыт <br> </kbd>](#-опыт-работы)</span>
 <span>[<kbd> <br> Образование <br> </kbd>](#-образование)</span>
-<span>[<kbd> <br> Технологии <br> </kbd>](#️-технологический-стек)</span>
-<span>[<kbd> <br> Статистика <br> </kbd>](#-github-analytics)</span>
-<span>[<kbd> <br> Цели <br> </kbd>](#-интересы--цели)</span>
 <span>[<kbd> <br> Контакты <br> </kbd>](#-связаться-со-мной)</span>
+<span>[<kbd> <br> Цели <br> </kbd>](#-интересы--цели)</span>
 
 </div>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-<h2><a id="о-себе"></a><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> О себе</h2>
+## 💻 Ключевые навыки
 
 <img align="right" width="370" height="290" alt="QA Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-<p>
-  <em>Я — начинающий QA-инженер с фокусом на ручном тестировании, автоматизации и разработке инструментов на Python.<br>
-  Мне нравится находить нетривиальные проблемы в продуктах и создавать решения, которые делают работу команды эффективнее.</em>
-</p>
-
-- 🎯 **QA Engineer** и **Python Developer** с фокусом на автоматизацию
-- 🧪 Специализируюсь на **ручном тестировании** и **автоматизации**
-- 🚀 Увлечён созданием **Telegram-ботов** и **инструментов автоматизации**
-- 💡 Нахожу нетривиальные проблемы и создаю решения, которые **экономят время команды**
-- 🎓 Выпускник **Яндекс.Практикум** по направлению "Инженер по тестированию" (**2025**)
-- 🔍 В поиске возможностей для роста как **QA Automation Engineer**
-- 📊 Создал инструменты, которые сократили время работы команды на **97%**
-
-&nbsp;
-
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-## 💻 Ключевые навыки
-
 ### 🧪 Тестирование
-**Опыт:** Яндекс.Практикум 2025 + практика на реальных проектах
-
 - **Методологии:** Ручное функциональное, API-тестирование, UI/UX, Регрессионное
 - **Инструменты:** Postman, Charles Proxy, DevTools, ADB
 - **Документация:** Тест-кейсы, чек-листы, баг-репорты
-- **Портфолио:** [Яндекс.Метро](https://github.com/Urushihara24/qa-portfolio) • [Яндекс.Маршруты](https://github.com/Urushihara24/qa-portfolio-yandex-routes)
 
 ### 💻 Разработка
-**Опыт:** 2+ года Python разработки (2023-2025)
-
 - **Языки:** Python, SQL
 - **Python библиотеки:** `requests` `pandas` `openpyxl` `gspread` `aiogram` `beautifulsoup4`
 - **Базы данных:** PostgreSQL, MySQL
@@ -77,6 +51,8 @@
 - **API:** Telegram Bot API, Google Sheets API
 - **Автоматизация:** Парсинг данных, интеграция с внешними сервисами
 - **Форматы:** JSON, XML, CSV, Excel
+
+<br clear="right"/>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
@@ -89,9 +65,6 @@
 <td width="50%" align="center" valign="top">
 
 ### 📱 [WBHelp — Employee Assistant](https://github.com/Urushihara24/employee-feedback-app)
-
-<img src="https://img.shields.io/badge/Status-Production-success?style=flat-square" /> <img src="https://img.shields.io/badge/Users-50+-blue?style=flat-square" />
-
 #### Многофункциональный сервис для команды
 
 Веб/Android приложение для обратной связи и управления задачами в команде 50+ человек. От веб-версии до нативного Android-приложения.
@@ -111,9 +84,6 @@
 <td width="50%" align="center" valign="top">
 
 ### 📦 [Warehouse Capacity Script](https://github.com/Urushihara24/warehouse-capacity-script)
-
-<img src="https://img.shields.io/badge/Status-Production-success?style=flat-square" /> <img src="https://img.shields.io/badge/Time_Saved-97%25-orange?style=flat-square" />
-
 #### Автоматизация складского учета
 
 Python-скрипт для анализа и контроля складских мощностей. Автоматизирует расчеты заполненности по категориям, этажам и рядам.
@@ -135,9 +105,6 @@ Python-скрипт для анализа и контроля складских
 <td width="50%" align="center" valign="top">
 
 ### 🌾 [Exportum Bot](https://github.com/Urushihara24/Exportum_bot)
-
-<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-
 #### Telegram-бот для торговли зерном
 
 Комплексное решение для автоматизации зерновой торговли. Управление сделками, логистика, парсинг цен и автоматический матчинг.
@@ -159,9 +126,6 @@ Python-скрипт для анализа и контроля складских
 <td width="50%" align="center" valign="top">
 
 ### 🤖 [HR Bot](https://github.com/Urushihara24/HR-bot)
-
-<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-
 #### Telegram-бот для подбора персонала
 
 Автоматизация HR-процессов: управление вакансиями, автоматический подбор кандидатов и обработка откликов через Telegram.
@@ -382,7 +346,5 @@ Python-скрипт для анализа и контроля складских
 *"Quality is not an act, it is a habit."* — Aristotle
 
 </div>
-
-<p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=F75C7E&style=flat&logo" alt="back to top" /></a></p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
