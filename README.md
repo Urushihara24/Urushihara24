@@ -1,16 +1,8 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-
 <div align="center">
 
 # Привет, я Всеволод! 👋
 
 ###  QA Engineer | Python Developer
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Urushihara24&label=Profile%20Views&color=F75C7E&style=flat-square" alt="Views" height="21" /> 
-  <img src="https://img.shields.io/github/followers/Urushihara24?label=Followers&color=F75C7E&style=flat-square" alt="Followers" height="21" />
-  <img src="https://img.shields.io/github/stars/Urushihara24?label=Stars&color=F75C7E&style=flat-square" alt="Stars" height="21" />
-</p>
 
 <p align="center">
   <em>Я — начинающий QA-инженер с фокусом на ручном тестировании, автоматизации и разработке инструментов на Python.<br>
@@ -19,18 +11,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=QA+Engineer;Python+Developer;Automation+Enthusiast)](https://git.io/typing-svg)
 
-<span>[<kbd> <br> Навыки <br> </kbd>](#-ключевые-навыки)</span>
-<span>[<kbd> <br> Проекты <br> </kbd>](#-мои-проекты)</span>
-<span>[<kbd> <br> Статистика <br> </kbd>](#-github-analytics)</span>
-<span>[<kbd> <br> Технологии <br> </kbd>](#️-технологический-стек)</span>
-<span>[<kbd> <br> Опыт <br> </kbd>](#-опыт-работы)</span>
-<span>[<kbd> <br> Образование <br> </kbd>](#-образование)</span>
-<span>[<kbd> <br> Контакты <br> </kbd>](#-связаться-со-мной)</span>
-<span>[<kbd> <br> Цели <br> </kbd>](#-интересы--цели)</span>
+---
 
 </div>
-
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ## 💻 Ключевые навыки
 
@@ -54,7 +37,7 @@
 
 <br clear="right"/>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+---
 
 ## 🚀 Мои проекты
 
@@ -147,7 +130,7 @@ Python-скрипт для анализа и контроля складских
 </tr>
 </table>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+---
 
 ## 📊 GitHub Analytics
 
@@ -164,7 +147,7 @@ Python-скрипт для анализа и контроля складских
   <img src="https://github-profile-trophy.vercel.app/?username=Urushihara24&theme=radical&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+---
 
 ## 🛠️ Технологический стек
 
@@ -191,7 +174,7 @@ Python-скрипт для анализа и контроля складских
 
 </div>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+---
 
 ## 📈 Опыт работы
 
@@ -207,7 +190,7 @@ Python-скрипт для анализа и контроля складских
 - ⚡ Оптимизировал рабочие процессы через автоматизацию рутинных задач
 - 📊 Внедрил систему мониторинга складских показателей в реальном времени
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+---
 
 ## 🎓 Образование
 
@@ -234,7 +217,7 @@ Python-скрипт для анализа и контроля складских
 </tr>
 </table>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+---
 
 ## 📫 Связаться со мной
 
@@ -252,7 +235,7 @@ Python-скрипт для анализа и контроля складских
 
 </div>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+---
 
 ## 🌟 Интересы & Цели
 
@@ -292,7 +275,7 @@ Python-скрипт для анализа и контроля складских
 </tr>
 </table>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+---
 
 ## 📊 Статистика проектов
 
@@ -329,7 +312,7 @@ Python-скрипт для анализа и контроля складских
 
 </div>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+---
 
 <div align="center">
 
@@ -346,5 +329,3 @@ Python-скрипт для анализа и контроля складских
 *"Quality is not an act, it is a habit."* — Aristotle
 
 </div>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
