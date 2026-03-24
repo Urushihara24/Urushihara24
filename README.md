@@ -2,14 +2,18 @@
 
 # Привет, я Всеволод! 👋
 
-###  QA Engineer | Python Developer
+### QA Engineer | Manual QA | Web / Mobile / API Testing
 
 <p align="center">
-  <em>Я — начинающий QA-инженер с фокусом на ручном тестировании, автоматизации и разработке инструментов на Python.<br>
-  Мне нравится находить нетривиальные проблемы в продуктах и создавать решения, которые делают работу команды эффективнее.</em>
+  <em>
+    QA Engineer с коммерческим опытом ручного тестирования web-приложений, мобильных приложений,
+    backend-функциональности и REST API.<br>
+    Работал единственным QA на проекте: выстраивал процесс тестирования, создавал тестовую документацию с нуля
+    и сопровождал качество продукта на всех этапах релизного цикла.
+  </em>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=QA+Engineer;Python+Developer;Automation+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=QA+Engineer;Manual+QA;Web+%2F+Mobile+%2F+API+Testing;Postman+%7C+SQL+%7C+Charles+%7C+DevTools;Android+Studio+%7C+Xcode+%7C+Kibana;Quality+through+attention+to+detail)](https://git.io/typing-svg)
 
 ---
 
@@ -17,70 +21,74 @@
 
 ## 💻 Ключевые навыки
 
-<img align="right" width="370" height="290" alt="QA Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" width="360" height="290" alt="QA Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 ### 🧪 Тестирование
-- **Методологии:** Ручное функциональное, API-тестирование, UI/UX, Регрессионное
-- **Инструменты:** Postman, Charles Proxy, DevTools, ADB
-- **Документация:** Тест-кейсы, чек-листы, баг-репорты
+- **Виды тестирования:** функциональное, регрессионное, smoke, sanity, интеграционное, приёмочное
+- **Направления:** web, mobile, backend, REST API, кроссбраузерное и кроссплатформенное тестирование
+- **Сценарии:** авторизация, регистрация, роли и права доступа, личные кабинеты, платежные сценарии, подписки, in-app purchase, push-уведомления, deeplink, analytics events
+- **Документация:** тест-кейсы, чек-листы, баг-репорты, тестовые сценарии, QA-отчёты
 
-### 💻 Разработка
+### 🛠 Инструменты
+- **API и анализ трафика:** Postman, Chrome DevTools, Charles Proxy
+- **Логи и диагностика:** Kibana
+- **Мобильное тестирование:** Android Studio, Xcode
+- **Процессы и управление:** Jira, TestRail, Docker, Git, GitHub
+
+### 💻 Техническая база
+- **Базы данных:** SQL, PostgreSQL
 - **Языки:** Python, SQL
 - **Python библиотеки:** `requests` `pandas` `openpyxl` `gspread` `aiogram` `beautifulsoup4`
-- **Базы данных:** PostgreSQL, MySQL
-- **Инструменты:** Git, GitHub, Jira
-
-### 🔧 Дополнительно
-- **API:** Telegram Bot API, Google Sheets API
-- **Автоматизация:** Парсинг данных, интеграция с внешними сервисами
-- **Форматы:** JSON, XML, CSV, Excel
+- **Форматы и данные:** JSON, XML, CSV, Excel
 
 <br clear="right"/>
 
 ---
 
-## 🚀 Мои проекты
+## 🚀 Избранные проекты
 
-> *Здесь я делюсь своими самыми интересными проектами. Это не просто учебные задания, а реальные инструменты, которые я создавал по собственной инициативе для решения конкретных проблем.*
+> *Ниже — проекты, которые показывают мой практический опыт, технический бэкграунд и системный подход к качеству.*
 
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
 
 ### 📱 [WBHelp — Employee Assistant](https://github.com/Urushihara24/employee-feedback-app)
-#### Многофункциональный сервис для команды
+#### Внутренний сервис для команды
 
-Веб/Android приложение для обратной связи и управления задачами в команде 50+ человек. От веб-версии до нативного Android-приложения.
+Приложение для обратной связи и управления задачами внутри команды. Проект вырос из внутреннего инструмента в полноценное решение с автоматизацией процессов.
 
-**Ключевые особенности:**
-- 📨 Система обратной связи с Telegram уведомлениями
-- ✅ Модуль проверки задач в реальном времени
+**Что реализовано:**
+- 📨 Telegram-уведомления
+- ✅ Контроль задач в реальном времени
 - 🔄 Интеграция с Google Sheets API
+- 👥 Использование внутри команды 50+ человек
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
-**Результат:** ⚡ Сократил время реакции на 90%+
+**Результат:** автоматизация внутренних процессов и снижение ручной нагрузки команды.
 
 </td>
 <td width="50%" align="center" valign="top">
 
 ### 📦 [Warehouse Capacity Script](https://github.com/Urushihara24/warehouse-capacity-script)
-#### Автоматизация складского учета
+#### Автоматизация складской аналитики
 
-Python-скрипт для анализа и контроля складских мощностей. Автоматизирует расчеты заполненности по категориям, этажам и рядам.
+Python-скрипт для анализа складских мощностей, обработки данных и формирования отчётности.
 
-**Ключевые особенности:**
-- 📊 Подключение к API и получение данных
-- 🐼 Обработка с помощью Pandas
-- 📄 Генерация Excel-отчетов и обновление Google Sheets
+**Что реализовано:**
+- 📊 Получение и обработка данных
+- 🐼 Использование Pandas для расчётов
+- 📄 Формирование Excel-отчётов
+- 🔄 Обновление данных в Google Sheets
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-**Результат:** ⏱️ С 2-3 часов до 5 минут (97% сокращение)
+**Результат:** сокращение времени выполнения рутинной задачи с часов до минут.
 
 </td>
 </tr>
@@ -88,43 +96,42 @@ Python-скрипт для анализа и контроля складских
 <td width="50%" align="center" valign="top">
 
 ### 🌾 [Exportum Bot](https://github.com/Urushihara24/Exportum_bot)
-#### Telegram-бот для торговли зерном
+#### Telegram-бот для автоматизации бизнес-процессов
 
-Комплексное решение для автоматизации зерновой торговли. Управление сделками, логистика, парсинг цен и автоматический матчинг.
+Проект со сложной бизнес-логикой, пользовательскими сценариями, обработкой данных и автоматизацией процессов.
 
 **Ключевые особенности:**
-- 👥 Регистрация с полными реквизитами (ИНН, КПП, ОГРН)
-- 🌾 Создание и управление партиями зерна
-- 🔄 Автоматический поиск совпадений
-- 💰 Парсинг актуальных цен (РФ, FOB, CBoT)
-- 🚚 Заявки на логистику
+- 👥 Регистрация и работа с реквизитами
+- 🌾 Управление заявками и сущностями
+- 🔄 Логика автоматического поиска совпадений
+- 💰 Работа с данными и внешними источниками
+- 🚚 Поддержка логистических сценариев
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
 
-**Результат:** 🤝 Объединил фермеров, трейдеров и логистов на одной платформе
+**Результат:** пример проекта со сложными пользовательскими и бизнес-сценариями.
 
 </td>
 <td width="50%" align="center" valign="top">
 
 ### 🤖 [HR Bot](https://github.com/Urushihara24/HR-bot)
-#### Telegram-бот для подбора персонала
+#### Telegram-бот для автоматизации подбора
 
-Автоматизация HR-процессов: управление вакансиями, автоматический подбор кандидатов и обработка откликов через Telegram.
+Инструмент для автоматизации HR-процессов, управления вакансиями и обработки откликов.
 
 **Ключевые особенности:**
-- 📝 Создание и управление вакансиями
-- 👤 База кандидатов с фильтрацией
-- 🔍 Автоматический поиск подходящих кандидатов
-- 📊 Статистика по вакансиям
-- 🔔 Уведомления о новых откликах
+- 📝 Управление вакансиями
+- 👤 Работа с базой кандидатов
+- 🔍 Фильтрация и подбор
+- 📊 Статистика и уведомления
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-**Результат:** 🚀 Упростил процесс рекрутинга для HR-отдела
+**Результат:** автоматизация части процессов подбора и обработки кандидатов.
 
 </td>
 </tr>
@@ -143,52 +150,57 @@ Python-скрипт для анализа и контроля складских
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Urushihara24&theme=radical&hide_border=false" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Urushihara24&theme=radical&row=1&column=6" alt="GitHub Trophies"/>
-</div>
-
 ---
 
 ## 🛠️ Технологический стек
 
 <div align="center">
 
-### Языки программирования
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Инструменты тестирования
+### Testing
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Charles](https://img.shields.io/badge/-Charles-4A90E2?style=for-the-badge&logo=charles&logoColor=white)
+![TestRail](https://img.shields.io/badge/-TestRail-65C179?style=for-the-badge&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/-DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-### Разработка и инструменты
+### Mobile / Logs / Infra
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Kibana](https://img.shields.io/badge/-Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Data / Development
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Базы данных и библиотеки
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 Опыт работы
+## 📈 Опыт
 
 <div align="center">
 
-### 🏢 **Wildberries** | *2023-2024*
-**Старший специалист складского комплекса**
+### 🏢 **Webmedia**
+**Manual QA**
 
 </div>
 
-- 🔧 Разработал Python-скрипт для автоматизации анализа складских мощностей (сокращение времени на 97%)
-- 📱 Создал WBHelp — приложение для обратной связи сотрудников (50+ активных пользователей)
-- ⚡ Оптимизировал рабочие процессы через автоматизацию рутинных задач
-- 📊 Внедрил систему мониторинга складских показателей в реальном времени
+- 🔹 Работал единственным QA на проекте
+- 🔹 Отвечал за полный цикл ручного тестирования web-приложений, backend-функциональности, REST API и мобильных приложений
+- 🔹 Выстраивал процесс тестирования и определял приоритеты проверок
+- 🔹 Создавал и поддерживал тестовую документацию с нуля
+- 🔹 Проводил функциональное, регрессионное, smoke, sanity, интеграционное, кроссбраузерное, кроссплатформенное и приёмочное тестирование
+- 🔹 Тестировал авторизацию, регистрацию, роли и права доступа, личные кабинеты, платежные сценарии, подписки, in-app purchase, push-уведомления, deeplink и analytics events
+- 🔹 Проверял REST API через Postman и DevTools: request/response, status codes, бизнес-логику, негативные сценарии и обработку ошибок
+- 🔹 Использовал SQL / PostgreSQL для проверки данных, подготовки тестовых данных и анализа дефектов
+- 🔹 Анализировал клиент-серверное взаимодействие, сетевые запросы, ответы сервисов и логи через DevTools, Charles Proxy и Kibana
+- 🔹 Использовал Android Studio и Xcode для проверки мобильных сборок, логов и воспроизведения дефектов
+- 🔹 Работал с Docker в тестовом окружении
+- 🔹 Участвовал в регрессионной и приёмочной валидации релизов перед production
 
 ---
 
@@ -197,21 +209,15 @@ Python-скрипт для анализа и контроля складских
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-  
-**📚 Яндекс.Практикум**  
-*Курс "Инженер по тестированию"*  
-**2025**
 
-Освоил методологии тестирования, работу с документацией, API-тестирование и инструменты QA
+**📚 Яндекс Практикум**  
+*Инженер по тестированию*
 
 </td>
 <td width="50%" align="center">
-  
-**💼 Self-taught Developer**  
-*Python разработка и автоматизация*  
-**2023-2025**
 
-Самостоятельное изучение Python, создание Telegram-ботов, работа с API и базами данных
+**🏫 СТАРМ**  
+*Автоматические системы управления*
 
 </td>
 </tr>
@@ -223,51 +229,51 @@ Python-скрипт для анализа и контроля складских
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i@urushihara24.ru)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seva7513@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/urushihara24)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Urushihara24)
 
 <br>
 
-📧 **Email:** [i@urushihara24.ru](mailto:i@urushihara24.ru)  
-💬 **Telegram:** @urushihara24  
-📍 **Локация:** Казань, Россия
+📧 **Email:** [seva7513@gmail.com](mailto:seva7513@gmail.com)  
+💬 **Telegram:** [@urushihara24](https://t.me/urushihara24)  
+📍 **Локация:** Москва
 
 </div>
 
 ---
 
-## 🌟 Интересы & Цели
+## 🌟 Профессиональные интересы
 
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 🌟 Интересы
+### 🧪 QA Focus
 
 <div align="left">
 
-- 🤖 Создание Telegram-ботов и автоматизация
-- 📊 Работа с данными и аналитика  
-- 🧪 Тестирование и обеспечение качества
-- 🚀 Изучение новых технологий и инструментов
-- 💡 Разработка решений для реальных проблем
+- Web, mobile и backend testing
+- REST API и client-server взаимодействие
+- SQL и проверка данных
+- Анализ логов и локализация дефектов
+- Тестовая документация и QA-процессы
 
 </div>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### 💡 Цели на 2025
+### 🚀 Сейчас развиваюсь в
 
 <div align="left">
 
-- [ ] Освоить автоматизацию тестирования (Selenium, pytest)
-- [ ] Углубить знания в API тестировании  
-- [ ] Получить сертификацию ISTQB Foundation Level
-- [ ] Создать 5+ open-source проектов на GitHub
-- [ ] Участвовать в open-source сообществе
-- [ ] Развить навыки CI/CD и DevOps
+- API / backend testing
+- Python for QA
+- pytest
+- Playwright
+- QA Automation
+- CI/CD basics
 
 </div>
 
@@ -277,7 +283,7 @@ Python-скрипт для анализа и контроля складских
 
 ---
 
-## 📊 Статистика проектов
+## 📊 Профиль в цифрах
 
 <div align="center">
 
@@ -285,26 +291,26 @@ Python-скрипт для анализа и контроля складских
 <tr>
 <td align="center" width="25%">
 
-**🚀 Проектов**  
-4
+**🧪 Основной фокус**  
+Web / Mobile / API
 
 </td>
 <td align="center" width="25%">
 
-**💻 Строк кода**  
-15,000+
+**⚙️ Инструменты**  
+Postman / SQL / Charles
 
 </td>
 <td align="center" width="25%">
 
-**👥 Пользователей**  
-50+
+**📄 Артефакты**  
+Test cases / Checklists / Bug reports
 
 </td>
 <td align="center" width="25%">
 
-**⚡ Экономия времени**  
-100+ часов/месяц
+**🚀 Вектор роста**  
+QA Automation
 
 </td>
 </tr>
@@ -322,10 +328,8 @@ Python-скрипт для анализа и контроля складских
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Urushihara24&color=blueviolet&style=for-the-badge&label=VISITORS)
-
 ### ⭐️ *From [Urushihara24](https://github.com/Urushihara24) with* ❤️
 
-*"Quality is not an act, it is a habit."* — Aristotle
+*"Quality is built through attention to detail."*
 
 </div>
