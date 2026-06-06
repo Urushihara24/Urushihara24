@@ -209,7 +209,7 @@ Testing documentation for the Yandex Metro application.
 <div align="center">
 
 ### 🏢 Webmedia | Manual QA Engineer  
-**January 2025 — March 2026**
+**January 2023 — April 2026**
 
 </div>
 
