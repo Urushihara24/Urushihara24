@@ -136,6 +136,45 @@ Comprehensive testing documentation for Yandex Metro app.
 
 ---
 
+## 📝 Test Tasks & Interview Assignments
+
+> Technical assessments completed during interview processes, demonstrating practical skills in automation and API testing.
+
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 💳 [Nebus-QIWI Tests](https://github.com/Urushihara24/nebus-qiwi-tests)
+**API test suite for Nebus fintech product (MCC Luna)**
+
+Interview assignment: built API automation suite based on public QIWI API documentation.
+
+**Scope:**
+- ✅ Service availability and health checks
+- ✅ Balance validation with boundary assertions (>0)
+- ✅ Payment creation and execution flows
+- ✅ Full payment lifecycle verification
+
+**Stack:** Playwright (TypeScript), Postman, REST API, QIWI API docs.
+
+**Note:** This is an interview test task, not a commercial project.
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 🎯 [3S Widget — QA Test Task](https://github.com/Urushihara24/qa-test-task-3s-widget)
+**Recent technical assessment**
+
+Latest test task demonstrating up-to-date skills in test design and structured QA approach.
+
+*Status: Recently completed / active practice.*
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🐍 Python Automation Projects
 
 > Practical projects demonstrating automation, data processing, API integration, and process optimization skills.
@@ -272,4 +311,120 @@ Automated the most labor-intensive HR stage — candidate survey collection.
 
 **Product:** Ecosystem of 6+ web services and mobile apps (Android/iOS) with microservices architecture. Integrations with payment gateways, subscription services, and external APIs via REST and Apache Kafka.
 
-**Domains:** e-commerce, crypto services, payment systems, subscriptions, auth & access control,
+**Domains:** e-commerce, crypto services, payment systems, subscriptions, auth & access control, warehouse operations.
+
+**Key achievements:**
+- ✅ **0 critical defects in production** across 12 consecutive releases (Escaped Defects Rate = 0) thanks to Definition of Done and Quality Gates.
+- ✅ **Reduced MTTR from 4 hours to 1 hour (-75%)** through Root Cause Analysis: independent Kibana log analysis + SQL validation in PostgreSQL.
+- ✅ **Prevented critical Kafka incident** before release — detected incompatible JSON structure in external integration.
+- ✅ **Optimized regression suites** in TestRail by 30% without losing coverage of critical scenarios.
+- ✅ **Built QA processes from scratch** as the sole QA: stack selection, RTD artifacts package, unified bug report template, onboarding guide.
+- ✅ **Introduced Shift-Left approach** — found 50+ defects in requirements during grooming, reducing late-stage rework.
+- ✅ **Initiated automation transition** — set up CI/CD pipelines (Git + Docker), wrote first E2E tests in Python + Playwright.
+
+**Responsibilities:**
+- Full-cycle testing: functional, regression, integration, smoke, sanity, E2E, cross-browser, UI.
+- REST API testing via Postman, Swagger, DevTools (HTTP statuses, JSON schemas, business logic validation).
+- Apache Kafka testing: publish/consume validation, payload structure, retry diagnostics.
+- SQL queries in PostgreSQL (JOIN, GROUP BY, subqueries, aggregates) for data integrity checks.
+- Log analysis via Kibana, network traffic inspection via Charles Proxy.
+- Test documentation in TestRail, defect management in Jira, knowledge base in Confluence.
+- Participation in Agile/Scrum ceremonies: grooming, sprint planning, retrospectives, release cycles.
+
+**Stack:** SQL, PostgreSQL, Postman, Swagger, REST API, Apache Kafka, Kibana, Charles Proxy, DevTools, Atlassian Jira, Atlassian Confluence, TestRail, Git, GitHub, Docker, Linux (Bash), CI/CD, Android Studio, Xcode, ADB, Python, Playwright, JSON.
+
+---
+
+## 🎓 Education
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+**📚 Yandex Practicum**
+*QA Engineer (Manual QA)*
+**2025**
+
+Diploma project: full-cycle testing of a web application using structured QA processes.
+
+</td>
+<td width="50%" align="center">
+
+**🏫 STAPM**
+*Automation and Control Systems*
+**Secondary Specialized Education, 2020**
+
+Focus: Information Systems and Technologies.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Allure](https://img.shields.io/badge/-Allure-FF6C37?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD%20Pipelines-007396?style=for-the-badge)
+
+</div>
+
+**Next professional step:** deepen expertise in test automation (Python + Playwright + pytest) and grow into an **SDET role** while maintaining strong manual/backend testing foundation.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Urushihara24&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=rank"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urushihara24&layout=compact&theme=radical&langs_count=6"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Urushihara24&theme=radical&hide_border=false" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Urushihara24&theme=radical&row=1&column=6" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📫 Contact Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seva7513@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/urushihara24)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Urushihara24)
+
+<br>
+
+📧 **Email:** [seva7513@gmail.com](mailto:seva7513@gmail.com)  
+💬 **Telegram:** [@urushihara24](https://t.me/urushihara24)  
+📱 **Phone:** +7 (950) 946-55-74  
+📍 **Location:** Moscow, Russia (Remote only)  
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Urushihara24&theme=react-dark&hide_border=true&area=true" width="100%">
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Urushihara24&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+### ⭐ From [Urushihara24](https://github.com/Urushihara24) with ❤️  
+
+*"Quality is not an act, it is a habit."* — Aristotle  
+
+</div>
