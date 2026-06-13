@@ -1,83 +1,180 @@
 <div align="center">
 
-# Hi, I'm Vsevolod! 👋  
+# Hi, I'm Vsevolod! 👋
 
-### QA Engineer | Manual QA | Python Automation
+### QA Engineer | Backend & API Testing | Python Automation
 
 <p align="center">
   <em>
-    I’m a QA Engineer with commercial experience in testing web, mobile, backend, and REST API products.<br>
-    I enjoy building testing processes from scratch, uncovering non-trivial bugs, and automating routine tasks with Python.
+    QA Engineer with 3+ years of commercial experience testing Web, Mobile, and Backend systems.<br>
+    Sole QA in a product team — built QA processes from scratch, ensuring <strong>0 critical defects in production across 12 consecutive releases</strong>.<br>
+    Specialized in API/Backend testing, microservices architecture (Apache Kafka), and deep defect localization via RCA.
   </em>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=QA+Engineer;Manual+QA;Web+%26+API+Testing;Python+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Manual+%2B+Automation;API+%26+Backend+Testing+Specialist;Shift-Left+%E2%80%A2+RCA+%E2%80%A2+CI%2FCD;Python+%2B+Playwright+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
 </div>
 
-## 💻 Core Skills
+## 🎯 Key Achievements
 
-<img align="right" width="370" height="290" alt="QA Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+
+### 🛡️ 0 Critical Bugs
+**12 consecutive releases**
+Escaped Defects Rate = 0 on critical business scenarios (payments, auth, subscriptions) thanks to Definition of Done and Quality Gates.
+
+</td>
+<td width="33%" align="center">
+
+### ⚡ -75% MTTR
+**4 hours → 1 hour**
+Root Cause Analysis via Kibana logs + SQL validation in PostgreSQL — offloaded backend developers.
+
+</td>
+<td width="33%" align="center">
+
+### 📉 -30% Regression Time
+Optimized regression suites in TestRail — removed duplicates and outdated scenarios without losing coverage.
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+### 🔍 50+ Defects in Requirements
+Shift-Left approach — caught contradictions and incomplete acceptance criteria during grooming, before development started.
+
+</td>
+<td width="33%" align="center">
+
+### 🚨 Kafka Incident Prevented
+Detected incompatible message structure in external Kafka integration during regression — fixed before release, avoiding production outage.
+
+</td>
+<td width="33%" align="center">
+
+### 🏗️ QA from Scratch
+Built the entire QA process as the sole QA engineer: stack selection (Jira + TestRail + Postman), RTD artifacts package, bug report templates.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Core Expertise
+
+<img align="right" width="370" height="290" alt="QA Engineering" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 ### 🧪 Testing
-- **Methodologies:** functional, regression, integration, smoke, sanity, and acceptance testing.  
-- **Areas:** web applications, mobile applications (Android/iOS), backend systems, and REST APIs.  
-- **Scenarios:** authentication and registration, roles and permissions, user accounts, payments, subscriptions, in-app purchases, push notifications, deeplinks, analytics events, and responsive UI validation.  
+- **Methodologies:** Functional, Regression, Integration, Smoke, Sanity, E2E, Cross-browser, Cross-platform.
+- **Approaches:** Shift-Left Testing, Risk-Based Testing, Root Cause Analysis (5 Whys), RTD (Ready to Development).
+- **Domains:** payments, subscriptions, authentication, roles & permissions, e-commerce, crypto services, warehouse operations.
+- **Platforms:** Web, Mobile (Android/iOS), Backend, Microservices, REST API, Apache Kafka integrations.
 
 ### 🔧 Testing Tools
-- **API:** Postman, Chrome DevTools (Network), REST.  
-- **Network analysis:** Charles Proxy, Kibana.  
-- **Mobile:** Android Studio, Xcode, real devices, and emulators.  
-- **Documentation:** test cases, checklists, bug reports, and QA reports (Jira, TestRail, Confluence).  
+- **API & Network:** Postman, Swagger/OpenAPI, Charles Proxy, Chrome DevTools.
+- **Logs & Monitoring:** Kibana, server log analysis, RCA.
+- **Databases:** PostgreSQL (JOIN, GROUP BY, subqueries, aggregates).
+- **Async messaging:** Apache Kafka (publish/consume validation, payload structure, retry diagnostics).
+- **Management:** Atlassian Jira, TestRail, Atlassian Confluence.
+- **Mobile:** Android Studio, Xcode, ADB, real devices & emulators.
 
-### 💻 Development & Data
-- **Languages:** Python, SQL.  
-- **Databases:** PostgreSQL.  
-- **Python libraries:** `requests`, `pandas`, `openpyxl`, `gspread`, `aiogram`, `beautifulsoup4`.  
-- **Tools:** Git, GitHub, VS Code, Docker.  
+### 💻 Development & Automation
+- **Languages:** Python, SQL, Bash.
+- **Automation:** Playwright (E2E), pytest (learning).
+- **Python libs:** `requests`, `pandas`, `openpyxl`, `gspread`, `aiogram`, `beautifulsoup4`.
+- **DevOps:** Git, GitHub, Docker, Linux, CI/CD pipelines.
 
 <br clear="right"/>
 
 ---
 
-## 🚀 My Projects
+## 🧪 QA Portfolio (Testing Documentation)
 
-> Here are practical, real-world projects focused on automation, analytics, process optimization, and business workflows.
+> Real examples of test design, checklists, and bug reports — structured by functionality, roles, and priorities.
+
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 🎯 [Yandex Routes — QA Portfolio](https://github.com/Urushihara24/qa-portfolio-yandex-routes)
+
+Structured testing of Yandex Routes service.
+
+**What's inside:**
+- ✅ Checklists for key user flows
+- ✅ Test cases with prioritization (High/Medium/Low)
+- ✅ Bug reports with evidence (screenshots, logs, expected vs actual)
+- ✅ Regression and smoke test strategies
+
+**Skills demonstrated:** Test design, equivalence partitioning, boundary values, pairwise testing.
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 🚇 [Yandex Metro — QA Portfolio](https://github.com/Urushihara24/qa-portfolio)
+
+Comprehensive testing documentation for Yandex Metro app.
+
+**What's inside:**
+- ✅ Test cases structured by functionality and roles
+- ✅ Bug reports with severity & priority
+- ✅ QA reporting templates
+- ✅ Examples of regression coverage planning
+
+**Skills demonstrated:** Test planning, bug lifecycle management, documentation standards.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🐍 Python Automation Projects
+
+> Practical projects demonstrating automation, data processing, API integration, and process optimization skills.
 
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
 
 ### 🌾 [Exportum Bot](https://github.com/Urushihara24/Exportum_bot)
-#### Telegram bot for grain trading
+**Telegram bot for grain trading workflows**
 
-A comprehensive solution for automating grain trading and logistics workflows.  
+Comprehensive automation for grain trading and logistics.
 
 **Key features:**
-- 👥 User registration with company details (TIN, KPP, OGRN).  
-- 🌾 Creation and management of grain lots and deals.  
-- 💰 Parsing current market prices (RF, FOB, CBoT).  
-- 🔄 Automatic matching of offers and requests.  
-- 🚚 Logistics requests and transportation management.  
+- 👥 Registration with company validation (TIN, KPP, OGRN)
+- 🌾 Lot and deal management with state machine (FSM)
+- 💰 Market price parsing (RF, FOB, CBoT) via BeautifulSoup
+- 🔄 Automatic matching of offers and requests
+- 🚚 Logistics tracking and transportation management
 
-**Tech stack:** Python, `aiogram`, `requests`, `beautifulsoup4`, Google Sheets API.  
+**Stack:** Python, `aiogram`, `requests`, `beautifulsoup4`, Google Sheets API, `openpyxl`.
 
 </td>
 <td width="50%" align="center" valign="top">
 
 ### 📱 [WBHelp — Employee Assistant](https://github.com/Urushihara24/employee-feedback-app)
-#### Employee support and feedback service
+**Web + Android app for team of 50+ employees**
 
-A multifunctional web/Android application for employee feedback, task management, and reporting.  
+From simple website to native Android app — evolution of internal communication tool.
 
 **Key features:**
-- 📨 Employee feedback collection with Telegram notifications.  
-- ✅ Real-time task and status tracking.  
-- 📊 Google Sheets integration for analytics and reporting.  
+- 📨 Feedback collection with Telegram notifications
+- ✅ Real-time task and status tracking
+- 📊 Google Sheets integration for analytics
+- 📱 Native Android app (Android SDK)
 
-**Tech stack:** Python, Telegram Bot API, Google Sheets API, web interface.  
+**Result:** feedback loop reduced from hours to minutes.
+
+**Stack:** Python, Flask, Telegram Bot API, Android SDK, Google Sheets API.
 
 </td>
 </tr>
@@ -86,92 +183,38 @@ A multifunctional web/Android application for employee feedback, task management
 <td width="50%" align="center" valign="top">
 
 ### 📦 [Warehouse Capacity Script](https://github.com/Urushihara24/warehouse-capacity-script)
-#### Warehouse capacity analysis automation
+**From 3 hours of manual work → 5 minutes of automation**
 
-A Python script for warehouse capacity analysis, monitoring, and report generation.  
+Python script for warehouse capacity analysis at Wildberries distribution center.
 
 **Key features:**
-- 📊 Data collection from APIs and databases.  
-- 🐼 Data processing with `pandas`.  
-- 📄 Excel report generation and Google Sheets updates using `openpyxl` and `gspread`.  
+- 📊 API data collection + database integration
+- 🐼 Data processing with `pandas` & `numpy`
+- 📄 Excel reports via `openpyxl`
+- 🔄 Google Sheets sync via `gspread`
 
-**Result:** calculations that previously took hours manually are now completed in minutes.  
+**Impact:** eliminated human error, enabled data-driven decisions.
 
 </td>
 <td width="50%" align="center" valign="top">
 
 ### 🤖 [HR Bot](https://github.com/Urushihara24/HR-bot)
-#### Telegram bot for recruitment workflows
+**Telegram bot for recruitment workflows**
 
-Automation of HR processes through Telegram.  
+Automated the most labor-intensive HR stage — candidate survey collection.
 
 **Key features:**
-- 📝 Vacancy creation and management.  
-- 👤 Candidate profile storage with filtering.  
-- 🔍 Search for relevant candidates based on custom parameters.  
-- 🔔 Notifications about new applications for HR teams.  
+- 📝 Multi-step dialogue with FSM state management
+- 💾 `PicklePersistence` for context between sessions
+- ✅ Data validation at each stage
+- 📊 Auto-save to Excel (`pandas` + `openpyxl`)
+- 🔒 Environment variables for secure token storage
 
-**Tech stack:** Python, `aiogram`, SQLite / tabular data storage.  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center" valign="top">
-
-### 🎯 [QA Portfolio: Yandex Routes](https://github.com/Urushihara24/qa-portfolio-yandex-routes)
-#### Checklists, test cases, and bug reports
-
-A QA portfolio project focused on testing the Yandex Routes service.  
-
-- Checklists for key user flows.  
-- Test cases and bug reports with prioritization.  
-- A structured approach to regression and smoke testing.  
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### 🚇 [QA Portfolio: Yandex Metro](https://github.com/Urushihara24/qa-portfolio)
-#### QA portfolio project
-
-Testing documentation for the Yandex Metro application.  
-
-- Test cases, checklists, and bug reports.  
-- Structured by functionality, roles, and priorities.  
-- Examples of QA documentation and reporting.  
+**Stack:** Python, `python-telegram-bot`, `pandas`, `openpyxl`.
 
 </td>
 </tr>
-
 </table>
-
----
-
-## 🧪 Top Repositories
-
-| Repository | What it shows |
-| --- | --- |
-| [Exportum_bot](https://github.com/Urushihara24/Exportum_bot) | Ability to build a complex business bot with real integrations and workflow logic |
-| [employee-feedback-app](https://github.com/Urushihara24/employee-feedback-app) | Team-focused service combining web, Telegram, and analytics |
-| [warehouse-capacity-script](https://github.com/Urushihara24/warehouse-capacity-script) | Data processing, reporting, and workflow automation |
-| [HR-bot](https://github.com/Urushihara24/HR-bot) | HR process automation and candidate data handling |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Urushihara24&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urushihara24&layout=compact&theme=radical&langs_count=6"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Urushihara24&theme=radical&hide_border=false" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Urushihara24&theme=radical&row=1&column=6" alt="GitHub Trophies"/>
-</div>
 
 ---
 
@@ -179,26 +222,40 @@ Testing documentation for the Yandex Metro application.
 
 <div align="center">
 
-### Programming & Data
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Testing Tools
+### Testing & API
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![TestRail](https://img.shields.io/badge/-TestRail-1F8A70?style=for-the-badge)
-![Charles](https://img.shields.io/badge/-Charles-4A90E2?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Charles Proxy](https://img.shields.io/badge/-Charles-4A90E2?style=for-the-badge)
 ![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 ![Kibana](https://img.shields.io/badge/-Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
-### Development Environment
+### Databases & Messaging
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Management & Documentation
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![TestRail](https://img.shields.io/badge/-TestRail-1F8A70?style=for-the-badge)
+
+### Development & DevOps
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-007396?style=for-the-badge)
+
+### Mobile Testing
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+![ADB](https://img.shields.io/badge/-ADB-3DDC84?style=for-the-badge)
+
+### Automation (Learning)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 </div>
 
@@ -208,110 +265,11 @@ Testing documentation for the Yandex Metro application.
 
 <div align="center">
 
-### 🏢 Webmedia | Manual QA Engineer  
-**January 2023 — April 2026**
+### 🏢 Webmedia — QA Engineer
+**January 2023 — May 2026 · 3 years 5 months · Remote**
 
 </div>
 
-- Sole QA on the project, covering the full cycle of manual testing for web, mobile, backend, and REST API products.  
-- Built the testing process from scratch: prioritization, test cases, checklists, and bug reports.  
-- Performed functional, regression, smoke, sanity, integration, cross-browser, cross-platform, and acceptance testing.  
-- Worked with SQL, PostgreSQL, Postman, DevTools, Charles Proxy, Kibana, Android Studio, and Xcode.  
-- Participated in release validation and acceptance testing, helping reduce production issues.  
+**Product:** Ecosystem of 6+ web services and mobile apps (Android/iOS) with microservices architecture. Integrations with payment gateways, subscription services, and external APIs via REST and Apache Kafka.
 
----
-
-## 🎓 Education
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-  
-**📚 Yandex Practicum**  
-*QA Engineer Course*  
-**2025**
-
-</td>
-<td width="50%" align="center">
-  
-**🏫 STARM**  
-*Automation and Control Systems*  
-**Secondary Specialized Education, 2020**
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌟 Interests & Goals
-
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-
-### 🌟 Interests
-
-<div align="left">
-
-- Testing web and mobile products  
-- API and backend testing  
-- Building Telegram bots and process automation  
-- Data analysis and reporting  
-- Product teams and release quality  
-
-</div>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### 💡 Goals
-
-<div align="left">
-
-- Deepen expertise in API and backend testing  
-- Grow into a QA Automation Engineer (`pytest`, Selenium / Playwright)  
-- Strengthen CI/CD and containerization skills  
-- Build more pet projects and contribute to open source  
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-## 📫 Contact Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seva7513@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/urushihara24)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Urushihara24)
-
-<br>
-
-📧 **Email:** [seva7513@gmail.com](mailto:seva7513@gmail.com)  
-💬 **Telegram:** [@urushihara24](https://t.me/urushihara24)  
-📍 **Location:** Moscow / Kazan, Russia (open to relocation)  
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 GitHub Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Urushihara24&theme=react-dark&hide_border=true&area=true" width="100%">
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Urushihara24&color=blueviolet&style=for-the-badge&label=VISITORS)
-
-### ⭐ From [Urushihara24](https://github.com/Urushihara24) with ❤️  
-
-*"Quality is not an act, it is a habit."* — Aristotle  
-
-</div>
+**Domains:** e-commerce, crypto services, payment systems, subscriptions, auth & access control,
