@@ -2,7 +2,7 @@
 
 # Hi, I'm Vsevolod! 👋
 
-### QA Engineer | Backend & API Testing | Python Automation
+### QA Engineer | Backend & API Testing | Microservices & Kafka
 
 <p align="center">
   <em>
@@ -12,7 +12,9 @@
   </em>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Manual+%2B+Automation;API+%26+Backend+Testing+Specialist;Shift-Left+%E2%80%A2+RCA+%E2%80%A2+CI%2FCD;Python+%2B+Playwright+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Manual+QA+Engineer+%7C+Backend+%26+API;Apache+Kafka+%E2%80%A2+PostgreSQL+%E2%80%A2+Kibana;Shift-Left+%E2%80%A2+RCA+%E2%80%A2+Quality+Gates;Crypto+%E2%80%A2+Fintech+%E2%80%A2+E-commerce)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-2636001e-4d54-4b24-8e14-5d7d53fcefd5.gif" width="100%">
 
 ---
 
@@ -85,10 +87,8 @@ Built the entire QA process as the sole QA engineer: stack selection (Jira + Tes
 - **Management:** Atlassian Jira, TestRail, Atlassian Confluence.
 - **Mobile:** Android Studio, Xcode, ADB, real devices & emulators.
 
-### 💻 Development & Automation
-- **Languages:** Python, SQL, Bash.
-- **Automation:** Playwright (E2E), pytest (learning).
-- **Python libs:** `requests`, `pandas`, `openpyxl`, `gspread`, `aiogram`, `beautifulsoup4`.
+### 💡 Technical Literacy
+- **Languages:** Python (reading autotests for better collaboration with AQA team), SQL, Bash.
 - **DevOps:** Git, GitHub, Docker, Linux, CI/CD pipelines.
 
 <br clear="right"/>
@@ -138,16 +138,16 @@ Comprehensive testing documentation for Yandex Metro app.
 
 ## 📝 Test Tasks & Interview Assignments
 
-> Technical assessments completed during interview processes, demonstrating practical skills in automation and API testing.
+> Technical assessments completed during interview processes, demonstrating practical skills in API testing and structured QA approach.
 
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
 
 ### 💳 [Nebus-QIWI Tests](https://github.com/Urushihara24/nebus-qiwi-tests)
-**API test suite for Nebus fintech product (MCC Luna)**
+**API test suite for QIWI payment gateway**
 
-Interview assignment: built API automation suite based on public QIWI API documentation.
+Interview assignment: analyzed API test structure on Python/Playwright/Pytest for public QIWI API.
 
 **Scope:**
 - ✅ Service availability and health checks
@@ -155,9 +155,9 @@ Interview assignment: built API automation suite based on public QIWI API docume
 - ✅ Payment creation and execution flows
 - ✅ Full payment lifecycle verification
 
-**Stack:** Playwright (TypeScript), Postman, REST API, QIWI API docs.
+**Stack:** Python, Playwright, Pytest, Postman, REST API.
 
-**Note:** This is an interview test task, not a commercial project.
+**Note:** Interview test task, not a commercial project.
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -175,9 +175,9 @@ Latest test task demonstrating up-to-date skills in test design and structured Q
 
 ---
 
-## 🐍 Python Automation Projects
+## 🐍 Python Projects (Technical Literacy)
 
-> Practical projects demonstrating automation, data processing, API integration, and process optimization skills.
+> Projects demonstrating ability to read code, understand architecture, and automate routine tasks — skills that help in defect localization and collaboration with development team.
 
 <table width="100%">
 <tr>
@@ -292,10 +292,6 @@ Automated the most labor-intensive HR stage — candidate survey collection.
 ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 ![ADB](https://img.shields.io/badge/-ADB-3DDC84?style=for-the-badge)
 
-### Automation (Learning)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-
 </div>
 
 ---
@@ -320,7 +316,7 @@ Automated the most labor-intensive HR stage — candidate survey collection.
 - ✅ **Optimized regression suites** in TestRail by 30% without losing coverage of critical scenarios.
 - ✅ **Built QA processes from scratch** as the sole QA: stack selection, RTD artifacts package, unified bug report template, onboarding guide.
 - ✅ **Introduced Shift-Left approach** — found 50+ defects in requirements during grooming, reducing late-stage rework.
-- ✅ **Initiated automation transition** — set up CI/CD pipelines (Git + Docker), wrote first E2E tests in Python + Playwright.
+- ✅ **Reading and analyzing autotest code (Python/Pytest)** to understand coverage and effectively collaborate with AQA engineers.
 
 **Responsibilities:**
 - Full-cycle testing: functional, regression, integration, smoke, sanity, E2E, cross-browser, UI.
@@ -331,7 +327,7 @@ Automated the most labor-intensive HR stage — candidate survey collection.
 - Test documentation in TestRail, defect management in Jira, knowledge base in Confluence.
 - Participation in Agile/Scrum ceremonies: grooming, sprint planning, retrospectives, release cycles.
 
-**Stack:** SQL, PostgreSQL, Postman, Swagger, REST API, Apache Kafka, Kibana, Charles Proxy, DevTools, Atlassian Jira, Atlassian Confluence, TestRail, Git, GitHub, Docker, Linux (Bash), CI/CD, Android Studio, Xcode, ADB, Python, Playwright, JSON.
+**Stack:** SQL, PostgreSQL, Postman, Swagger, REST API, Apache Kafka, Kibana, Charles Proxy, DevTools, Atlassian Jira, Atlassian Confluence, TestRail, Git, GitHub, Docker, Linux (Bash), CI/CD, Android Studio, Xcode, ADB, Python, JSON.
 
 ---
 
@@ -362,7 +358,7 @@ Focus: Information Systems and Technologies.
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Expanding Skills
 
 <div align="center">
 
@@ -373,7 +369,7 @@ Focus: Information Systems and Technologies.
 
 </div>
 
-**Next professional step:** deepen expertise in test automation (Python + Playwright + pytest) and grow into an **SDET role** while maintaining strong manual/backend testing foundation.
+**Professional focus:** Strengthening manual/backend testing expertise while maintaining technical literacy in automation tools for better collaboration with AQA teams and deeper defect localization.
 
 ---
 
@@ -394,13 +390,21 @@ Focus: Information Systems and Technologies.
 
 ---
 
+## 🐍 Snake Animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Urushihara24/Urushihara24/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 ## 📫 Contact Me
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seva7513@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/urushihara24)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Urushihara24)
+[![Hirify](https://img.shields.io/badge/-Hirify-007396?style=for-the-badge)](https://hirify.me/urushihara24)
 
 <br>
 
