@@ -210,19 +210,14 @@ Automated the most labor-intensive HR stage — candidate survey collection.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Urushihara24&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=rank"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urushihara24&layout=compact&theme=radical&langs_count=6"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Urushihara24&theme=radical&hide_border=false" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Urushihara24&theme=radical&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Urushihara24&theme=radical" />
 </div>
-
 ---
 
 ## 🐍 Snake Eating My Contributions
