@@ -4,7 +4,7 @@
 
 ### QA Engineer · API · Backend · Python
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-2636001e-4d54-4b24-8e14-5d7d53fcefd5.gif" width="100%" alt="coding animation">
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%" alt="coding animation">
 
 <br>
 
@@ -209,7 +209,7 @@ The goal is to become better at understanding and building software.
 
 <br><br>
 
-**Python · pytest · Playwright · API automation · SQL · FastAPI · Docker · CI/CD**
+`Python` · `pytest` · `Playwright` · `API automation` · `SQL` · `FastAPI` · `Docker` · `CI/CD`
 
 </div>
 
@@ -218,24 +218,18 @@ The goal is to become better at understanding and building software.
 ## 📚 How I approach QA
 
 ```text
-Requirement
-    ↓
-Understand the business flow
-    ↓
-Identify risks and boundaries
-    ↓
-Design the smallest useful set of checks
-    ↓
-Test the UI + API + data + integrations
-    ↓
-Collect reproducible evidence
-    ↓
-Localize the failure
-    ↓
-Communicate the actual impact
+Understand the product
+        ↓
+Model the risks
+        ↓
+Test the critical paths
+        ↓
+Investigate failures
+        ↓
+Collect technical evidence
+        ↓
+Find the cause, not only the symptom
 ```
-
-I care about **traceability, evidence and reproducibility** more than producing a large pile of test cases.
 
 ---
 
@@ -243,22 +237,10 @@ I care about **traceability, evidence and reproducibility** more than producing 
 
 <div align="center">
 
-<a href="https://github.com/Urushihara24">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://t.me/urushihara24">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a>
-<a href="mailto:seva7513@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://hirify.me/urushihara24">
-<img src="https://img.shields.io/badge/Hirify-Profile-161B22?style=for-the-badge" alt="Hirify">
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Urushihara24&style=flat-square&color=58A6FF&label=profile+views" alt="Profile views">
+[![GitHub](https://img.shields.io/badge/GitHub-Urushihara24-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Urushihara24)
+[![Telegram](https://img.shields.io/badge/Telegram-%40urushihara24-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/urushihara24)
+[![Hirify](https://img.shields.io/badge/Hirify-Profile-007396?style=for-the-badge)](https://hirify.me/urushihara24)
+[![Email](https://img.shields.io/badge/Email-seva7513%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seva7513@gmail.com)
 
 </div>
 
@@ -266,8 +248,8 @@ I care about **traceability, evidence and reproducibility** more than producing 
 
 <div align="center">
 
-### Thanks for stopping by 👋
+![Profile Views](https://komarev.com/ghpvc/?username=Urushihara24&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-*Build. Test. Investigate. Learn.*
+*"Quality is not an act, it is a habit."* — Aristotle
 
 </div>
