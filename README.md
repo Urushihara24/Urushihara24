@@ -157,16 +157,6 @@ Find the cause, not only the symptom
 
 ---
 
-## 📫 Find me
-
-<div align="center">
-
-**[GitHub](https://github.com/Urushihara24)** · **[Telegram](https://t.me/urushihara24)** · **[Email](mailto:seva7513@gmail.com)**
-
-</div>
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Urushihara24&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
