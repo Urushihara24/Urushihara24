@@ -4,7 +4,7 @@
 
 ### QA Engineer · API · Backend · Python
 
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%" alt="coding animation">
+<img src="https://github.com/user-attachments/assets/f3563df6-be53-4aba-ba97-0066c985e09e" width="100%" alt="Pixel art coding animation">
 
 <br>
 
@@ -66,19 +66,19 @@ My current direction is **Python + QA Automation + Backend**. I use GitHub not o
 
 ### Languages & Core
 
-<img src="https://skillicons.dev/icons?i=python,bash,postgresql,git,github,linux" alt="Python Bash PostgreSQL Git GitHub Linux" />
+<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="58" alt="Python"></a><a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="58" alt="Bash"></a><a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="58" alt="PostgreSQL"></a><a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="58" alt="Git"></a><a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="58" alt="GitHub"></a><a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="58" alt="Linux"></a>
 
 <br><br>
 
 ### QA, API & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=postman,docker,kafka,androidstudio" alt="Postman Docker Kafka Android Studio" />
+<a href="https://www.postman.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="58" alt="Postman"></a><a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="58" alt="Docker"></a><a href="https://kafka.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" height="58" alt="Apache Kafka"></a><a href="https://developer.android.com/studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="58" alt="Android Studio"></a>
 
 <br><br>
 
 ### Web & Data
 
-<img src="https://skillicons.dev/icons?i=html,css,js,flask,mongodb" alt="HTML CSS JavaScript Flask MongoDB" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="58" alt="HTML5"></a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="58" alt="CSS3"></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="58" alt="JavaScript"></a><a href="https://flask.palletsprojects.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="58" alt="Flask"></a><a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="58" alt="MongoDB"></a>
 
 </div>
 
@@ -157,21 +157,11 @@ API test automation with Python tooling.
 
 <div align="center">
 
-<a href="https://github.com/Urushihara24/Telaboro-QA-Case-">
-<img src="https://img.shields.io/badge/Telaboro-Android%20%7C%20API%20%7C%20Stripe-161B22?style=for-the-badge" alt="Telaboro QA Case">
-</a>
-<a href="https://github.com/Urushihara24/prtv-pro-test-case">
-<img src="https://img.shields.io/badge/PRTV.pro-Web%20%7C%20Mobile%20%7C%20TV-161B22?style=for-the-badge" alt="PRTV QA Case">
-</a>
-<a href="https://github.com/Urushihara24/chatplace-qa-test">
-<img src="https://img.shields.io/badge/ChatPlace-API%20%7C%20Telegram%20%7C%20Risk--Based-161B22?style=for-the-badge" alt="ChatPlace QA Test">
-</a>
-<a href="https://github.com/Urushihara24/mailshade-qa-case">
-<img src="https://img.shields.io/badge/Mailshade-Chrome%20Extension%20%7C%20Exploratory-161B22?style=for-the-badge" alt="Mailshade QA Case">
-</a>
-<a href="https://github.com/Urushihara24/qa-android-tv-case">
-<img src="https://img.shields.io/badge/Android%20TV-Mobile%20%7C%20Offline%20%7C%20Cache-161B22?style=for-the-badge" alt="Android TV QA Case">
-</a>
+<a href="https://github.com/Urushihara24/Telaboro-QA-Case-"><img src="https://img.shields.io/badge/Telaboro-Android%20%7C%20API%20%7C%20Stripe-161B22?style=for-the-badge" alt="Telaboro QA Case"></a>
+<a href="https://github.com/Urushihara24/prtv-pro-test-case"><img src="https://img.shields.io/badge/PRTV.pro-Web%20%7C%20Mobile%20%7C%20TV-161B22?style=for-the-badge" alt="PRTV QA Case"></a>
+<a href="https://github.com/Urushihara24/chatplace-qa-test"><img src="https://img.shields.io/badge/ChatPlace-API%20%7C%20Telegram%20%7C%20Risk--Based-161B22?style=for-the-badge" alt="ChatPlace QA Test"></a>
+<a href="https://github.com/Urushihara24/mailshade-qa-case"><img src="https://img.shields.io/badge/Mailshade-Chrome%20Extension%20%7C%20Exploratory-161B22?style=for-the-badge" alt="Mailshade QA Case"></a>
+<a href="https://github.com/Urushihara24/qa-android-tv-case"><img src="https://img.shields.io/badge/Android%20TV-Mobile%20%7C%20Offline%20%7C%20Cache-161B22?style=for-the-badge" alt="Android TV QA Case"></a>
 
 </div>
 
@@ -205,7 +195,7 @@ The goal is to become better at understanding and building software.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytest,playwright,fastapi,docker,postgresql" alt="Python Pytest Playwright FastAPI Docker PostgreSQL" />
+<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="54" alt="Python"></a><a href="https://pytest.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" height="54" alt="pytest"></a><a href="https://playwright.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="54" alt="Playwright"></a><a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="54" alt="FastAPI"></a><a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="54" alt="Docker"></a><a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="54" alt="PostgreSQL"></a>
 
 <br><br>
 
@@ -237,10 +227,7 @@ Find the cause, not only the symptom
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Urushihara24-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Urushihara24)
-[![Telegram](https://img.shields.io/badge/Telegram-%40urushihara24-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/urushihara24)
-[![Hirify](https://img.shields.io/badge/Hirify-Profile-007396?style=for-the-badge)](https://hirify.me/urushihara24)
-[![Email](https://img.shields.io/badge/Email-seva7513%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seva7513@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Urushihara24-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Urushihara24) [![Telegram](https://img.shields.io/badge/Telegram-%40urushihara24-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/urushihara24) [![Hirify](https://img.shields.io/badge/Hirify-Profile-007396?style=for-the-badge)](https://hirify.me/urushihara24) [![Email](https://img.shields.io/badge/Email-seva7513%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seva7513@gmail.com)
 
 </div>
 
