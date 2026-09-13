@@ -1,14 +1,18 @@
 <div align="center">
 
-# 👋 Vsevolod Samoylov
+# ⚡ VSEVOLOD // QA NODE
 
-### QA Engineer · API · Backend · Mobile · Test Automation
+### QA Engineer · API · Backend · Mobile · Integrations
+
+![QA Node](https://img.shields.io/badge/QA_NODE-ONLINE-00F0FF?style=for-the-badge&labelColor=0D1117)
+![Focus](https://img.shields.io/badge/FOCUS-API_%2F_BACKEND_%2F_MOBILE-FF2BD6?style=for-the-badge&labelColor=0D1117)
+![Python](https://img.shields.io/badge/PYTHON-LEARNING-8B5CF6?style=for-the-badge&labelColor=0D1117)
 
 <img src="https://github.com/user-attachments/assets/f3563df6-be53-4aba-ba97-0066c985e09e" width="100%" alt="Pixel art coding animation">
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=780&lines=I+test+products%2C+not+just+interfaces;UI+%E2%80%A2+API+%E2%80%A2+Database+%E2%80%A2+Logs;Mobile+%E2%80%A2+Backend+%E2%80%A2+Payments+%E2%80%A2+Integrations;Python+%E2%80%A2+pytest+%E2%80%A2+Playwright+%E2%80%A2+CI%2FCD)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&width=780&lines=TRACE+%E2%86%92+REPRODUCE+%E2%86%92+ISOLATE+%E2%86%92+EVIDENCE;UI+%E2%80%A2+API+%E2%80%A2+DATABASE+%E2%80%A2+LOGS;MOBILE+%E2%80%A2+BACKEND+%E2%80%A2+PAYMENTS+%E2%80%A2+INTEGRATIONS;PYTHON+LEARNING+TRACK+%2F%2F+QA+AUTOMATION)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <br>
 
@@ -18,20 +22,28 @@
 
 ---
 
-## 🧭 About me
+## `// SYSTEM PROFILE`
 
-I'm a **QA Engineer** who investigates products end to end — from the interface down to API contracts, databases, logs, asynchronous flows and third-party integrations.
+```text
+NODE      : QA ENGINEER
+FOCUS     : API / BACKEND / MOBILE / INTEGRATIONS
+MODE      : FUNCTIONAL / EXPLORATORY / REGRESSION / E2E
+EVIDENCE  : UI / NETWORK / DATABASE / LOGS
+PYTHON    : LEARNING → QA AUTOMATION / TOOLING
+STATUS    : ACTIVE
+```
 
-I focus testing on business risk: payments, access control, state transitions and failure recovery. My reports connect a visible symptom to technical evidence and a clear release decision.
+I investigate products end to end — from the interface down to API contracts, databases, logs, asynchronous flows and third-party integrations.
 
-> **Good testing is not about clicking through every screen.**<br>
-> It's about understanding what can break — and proving what actually broke.
+The interesting part for me is not just finding that something is broken, but tracing **where expected state diverges from actual state** and collecting evidence that proves it.
+
+> **Find the failure. Isolate the layer. Keep the evidence.**
 
 ---
 
-## 🔬 Featured QA work
+## `// QA WORKBENCH`
 
-| Case study | Scope | Evidence and outcome |
+| Case file | Surface | Signal |
 |---|---|---|
 | **[Telaboro](https://github.com/Urushihara24/Telaboro-QA-Case-)** | Android · Admin panel · API · PostgreSQL · Stripe · Logcat | **150+ test cases**; critical payment and profile failures localized with technical evidence |
 | **[PRTV.pro](https://github.com/Urushihara24/prtv-pro-test-case)** | Web · Mobile · Android TV · Billing · Integrations · Migration | **228 executed cases** across 18 modules; **45 documented defects** |
@@ -40,79 +52,99 @@ I focus testing on business risk: payments, access control, state transitions an
 
 ---
 
-## 🛠️ Stack
+## `// TOOLCHAIN`
 
 <div align="center">
 
-### Languages, data & core
+### `QA / DIAGNOSTICS`
 
-<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="58" alt="Python"></a>&nbsp;
-<a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="58" alt="Bash"></a>&nbsp;
-<a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="58" alt="PostgreSQL"></a>&nbsp;
-<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="58" alt="Git"></a>&nbsp;
-<a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="58" alt="Linux"></a>
+<a href="https://www.postman.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="56" alt="Postman"></a>&nbsp;&nbsp;
+<a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="56" alt="PostgreSQL"></a>&nbsp;&nbsp;
+<a href="https://developer.android.com/studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="56" alt="Android Studio"></a>&nbsp;&nbsp;
+<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="56" alt="Git"></a>&nbsp;&nbsp;
+<a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="56" alt="Bash"></a>&nbsp;&nbsp;
+<a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="56" alt="Linux"></a>
 
 <br><br>
 
-### QA, automation & infrastructure
+### `PYTHON LAB // LEARNING TRACK`
 
-<a href="https://www.postman.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="58" alt="Postman"></a>&nbsp;
-<a href="https://pytest.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" height="58" alt="pytest"></a>&nbsp;
-<a href="https://playwright.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="58" alt="Playwright"></a>&nbsp;
-<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="58" alt="Docker"></a>&nbsp;
-<a href="https://kafka.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" height="58" alt="Apache Kafka"></a>&nbsp;
-<a href="https://developer.android.com/studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="58" alt="Android Studio"></a>
+<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="56" alt="Python"></a>&nbsp;&nbsp;
+<a href="https://pytest.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" height="56" alt="pytest"></a>&nbsp;&nbsp;
+<a href="https://playwright.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="56" alt="Playwright"></a>&nbsp;&nbsp;
+<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="56" alt="Docker"></a>
 
 </div>
 
 <br>
 
 <details>
-<summary><b>Tools and techniques</b></summary>
+<summary><b>⌁ Expand tool matrix</b></summary>
 
 <br>
 
-| Area | Tools and techniques |
+| Channel | Tools and techniques |
 |---|---|
 | **Testing** | Functional · Exploratory · Regression · Integration · E2E · Risk-based |
 | **API & data** | REST · Swagger/OpenAPI · Postman · SQL · PostgreSQL |
-| **Backend** | Microservices · Kafka · Payments · Third-party integrations |
-| **Diagnostics** | DevTools · Kibana · Logcat · Charles Proxy · Request/response analysis |
-| **Automation** | Python · pytest · Playwright · Bash · GitHub Actions |
+| **Diagnostics** | DevTools · Network · Console · Kibana · Logcat · Charles Proxy · request/response analysis |
+| **Backend** | state transitions · payments · third-party integrations · persistence · logs |
+| **Automation / learning** | Python · pytest · Playwright · GitHub Actions |
 | **Delivery** | Git · Docker · Linux · Jira · TestRail · Confluence · CI/CD |
 
 </details>
 
 ---
 
-## 🐍 Automation & engineering
+## `// PYTHON LAB`
 
-| Project | What it demonstrates |
+Python is the current learning track: test code, fixtures, API checks and small automation pieces that extend QA work rather than replace it.
+
+| Sandbox | What lives there |
 |---|---|
-| **[Monitoring Bot](https://github.com/Urushihara24/monitoring-bot)** | Python service with marketplace integrations, defensive pricing rules, Docker and an extensive pytest suite |
-| **[DummyJSON API Tests](https://github.com/Urushihara24/DummyJSON_Test)** | Positive and negative API scenarios using Python, pytest, reusable fixtures and passing CI |
-| **[QIWI API Tests](https://github.com/Urushihara24/nebus-qiwi-tests)** | Payment-flow checks with Playwright APIRequestContext and a Postman collection |
+| **[DummyJSON API Tests](https://github.com/Urushihara24/DummyJSON_Test)** | Positive / negative API scenarios · pytest · reusable fixtures · CI |
+| **[QIWI API Tests](https://github.com/Urushihara24/nebus-qiwi-tests)** | Payment-flow checks · Playwright APIRequestContext · Postman |
+
+<details>
+<summary><b>🗃 ARCHIVE // older engineering experiments</b></summary>
+
+<br>
+
+These projects are part of the path, but they are not the current focus.
+
+- **[Monitoring Bot](https://github.com/Urushihara24/monitoring-bot)** — Python service with marketplace integrations, defensive pricing rules, Docker and tests.
+- **[Orcestre](https://github.com/Urushihara24/Orcestre)** — Telegram automation, scheduling, persistence and API interaction.
+- **[Exportum Bot](https://github.com/Urushihara24/Exportum_bot)** — Telegram workflow automation for logistics operations.
+
+</details>
 
 ---
 
-## 🧩 How I investigate failures
+## `// FAILURE TRACE`
 
 ```text
-Understand the product and business risk
-                    ↓
-Model critical paths and state transitions
-                    ↓
-Reproduce and isolate the failing layer
-                    ↓
-Collect UI, API, database and log evidence
-                    ↓
-Explain impact, likely cause and release risk
+[ anomaly detected ]
+        │
+        ▼
+[ reproduce cleanly ]
+        │
+        ▼
+[ UI / API / DB / logs / external dependency ]
+        │
+        ▼
+[ expected state ≠ actual state ]
+        │
+        ▼
+[ collect evidence ]
+        │
+        ▼
+[ retest fix + affected flow ]
 ```
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Urushihara24&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Urushihara24&color=8B5CF6&style=for-the-badge&label=NODE+VISITS)
 
-*Building, testing and investigating how products really work.*
+`QA NODE // ONLINE` · `PYTHON // LOADING` · `EVIDENCE // PRESERVED`
 
 </div>
