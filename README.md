@@ -2,13 +2,13 @@
 
 # 👋 Vsevolod Samoylov
 
-### QA Engineer · API · Backend · Mobile · Test Automation
+### QA Engineer · API · Backend · Mobile
 
 <img src="https://github.com/user-attachments/assets/f3563df6-be53-4aba-ba97-0066c985e09e" width="100%" alt="Pixel art coding animation">
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=780&lines=I+test+products%2C+not+just+interfaces;UI+%E2%80%A2+API+%E2%80%A2+Database+%E2%80%A2+Logs;Mobile+%E2%80%A2+Backend+%E2%80%A2+Payments+%E2%80%A2+Integrations;Python+%E2%80%A2+pytest+%E2%80%A2+Playwright+%E2%80%A2+CI%2FCD)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=780&lines=I+test+products%2C+not+just+interfaces;UI+%E2%80%A2+API+%E2%80%A2+Database+%E2%80%A2+Logs;Mobile+%E2%80%A2+Backend+%E2%80%A2+Payments+%E2%80%A2+Integrations;Currently+learning+Python+for+QA+automation)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <br>
 
@@ -18,57 +18,58 @@
 
 ---
 
-## 🧭 About me
+## 🧪 Current focus
 
-I'm a **QA Engineer** who investigates products end to end — from the interface down to API contracts, databases, logs, asynchronous flows and third-party integrations.
+Most of this GitHub is my QA workspace: test artifacts, investigations, bug reports, API checks, regression work and things I learned by breaking software on purpose.
 
-I focus testing on business risk: payments, access control, state transitions and failure recovery. My reports connect a visible symptom to technical evidence and a clear release decision.
+Right now the main direction is **QA engineering** — especially API/backend behavior, mobile, integrations, state transitions and technical evidence.
 
-> **Good testing is not about clicking through every screen.**<br>
-> It's about understanding what can break — and proving what actually broke.
+Alongside that, I'm learning **Python** to gradually add more automation and QA tooling to the way I work.
 
----
-
-## 🔬 Featured QA work
-
-| Case study | Scope | Evidence and outcome |
-|---|---|---|
-| **[Telaboro](https://github.com/Urushihara24/Telaboro-QA-Case-)** | Android · Admin panel · API · PostgreSQL · Stripe · Logcat | **150+ test cases**; critical payment and profile failures localized with technical evidence |
-| **[PRTV.pro](https://github.com/Urushihara24/prtv-pro-test-case)** | Web · Mobile · Android TV · Billing · Integrations · Migration | **228 executed cases** across 18 modules; **45 documented defects** |
-| **[ChatPlace](https://github.com/Urushihara24/chatplace-qa-test)** | Telegram bot · API · Paywall · Traceability | Acceptance criteria mapped to cases, risks and evidence; release recommendation: **NO-GO** |
-| **[Mailshade](https://github.com/Urushihara24/mailshade-qa-case)** | Chrome extension · Exploratory testing · UX · Localization | **19 findings** supported by screenshots, videos, CSV and localization analysis |
+> **Find the failure. Isolate the layer. Keep the evidence.**
 
 ---
 
-## 🛠️ Stack
+## 🔬 QA workbench
+
+| Project | What lives there |
+|---|---|
+| **[Commercial AI SaaS QA](https://github.com/Urushihara24/commercial-ai-saas-qa)** | Sanitized artifacts from a real paid AI SaaS QA engagement: regression, E2E, responsive, integrations, retests and defect lifecycle |
+| **[Telaboro](https://github.com/Urushihara24/Telaboro-QA-Case-)** | Android · Admin panel · API · PostgreSQL · Stripe · Logcat · 150+ test cases |
+| **[PRTV.pro](https://github.com/Urushihara24/prtv-pro-test-case)** | Web · Mobile · Android TV · Billing · Integrations · Migration · 228 executed cases · 45 defects |
+| **[ChatPlace](https://github.com/Urushihara24/chatplace-qa-test)** | Telegram bot · API · Paywall · Traceability · acceptance criteria → tests → evidence |
+| **[Mailshade](https://github.com/Urushihara24/mailshade-qa-case)** | Chrome extension · Exploratory testing · UX · Localization · screenshots, videos and CSV evidence |
+
+---
+
+## 🧰 Toolbox
 
 <div align="center">
 
-### Languages, data & core
+### QA / diagnostics
 
-<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="58" alt="Python"></a>&nbsp;
-<a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="58" alt="Bash"></a>&nbsp;
-<a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="58" alt="PostgreSQL"></a>&nbsp;
-<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="58" alt="Git"></a>&nbsp;
-<a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="58" alt="Linux"></a>
+<a href="https://www.postman.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="56" alt="Postman"></a>&nbsp;
+<a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="56" alt="PostgreSQL"></a>&nbsp;
+<a href="https://developer.android.com/studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="56" alt="Android Studio"></a>&nbsp;
+<a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="56" alt="Bash"></a>&nbsp;
+<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="56" alt="Git"></a>&nbsp;
+<a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="56" alt="Linux"></a>
 
 <br><br>
 
-### QA, automation & infrastructure
+### Python learning track
 
-<a href="https://www.postman.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="58" alt="Postman"></a>&nbsp;
-<a href="https://pytest.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" height="58" alt="pytest"></a>&nbsp;
-<a href="https://playwright.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="58" alt="Playwright"></a>&nbsp;
-<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="58" alt="Docker"></a>&nbsp;
-<a href="https://kafka.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" height="58" alt="Apache Kafka"></a>&nbsp;
-<a href="https://developer.android.com/studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="58" alt="Android Studio"></a>
+<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="56" alt="Python"></a>&nbsp;
+<a href="https://pytest.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" height="56" alt="pytest"></a>&nbsp;
+<a href="https://playwright.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="56" alt="Playwright"></a>&nbsp;
+<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="56" alt="Docker"></a>
 
 </div>
 
 <br>
 
 <details>
-<summary><b>Tools and techniques</b></summary>
+<summary><b>What I actually use around QA</b></summary>
 
 <br>
 
@@ -76,43 +77,59 @@ I focus testing on business risk: payments, access control, state transitions an
 |---|---|
 | **Testing** | Functional · Exploratory · Regression · Integration · E2E · Risk-based |
 | **API & data** | REST · Swagger/OpenAPI · Postman · SQL · PostgreSQL |
-| **Backend** | Microservices · Kafka · Payments · Third-party integrations |
-| **Diagnostics** | DevTools · Kibana · Logcat · Charles Proxy · Request/response analysis |
-| **Automation** | Python · pytest · Playwright · Bash · GitHub Actions |
-| **Delivery** | Git · Docker · Linux · Jira · TestRail · Confluence · CI/CD |
+| **Diagnostics** | DevTools · Network · Console · Logcat · Charles Proxy · request/response analysis |
+| **Mobile** | Android · Android TV · real-device checks · responsive testing |
+| **Backend** | state transitions · payments · third-party integrations · logs · persistence |
+| **Learning / automation** | Python · pytest · Playwright · GitHub Actions |
 
 </details>
 
 ---
 
-## 🐍 Automation & engineering
+## 🐍 Python corner
 
-| Project | What it demonstrates |
+Python is a **learning track**, not my main role yet. I use these repositories to practice writing tests, fixtures, validation logic and small bits of automation without pretending I'm a Python developer.
+
+| Project | What I'm practicing |
 |---|---|
-| **[Monitoring Bot](https://github.com/Urushihara24/monitoring-bot)** | Python service with marketplace integrations, defensive pricing rules, Docker and an extensive pytest suite |
-| **[DummyJSON API Tests](https://github.com/Urushihara24/DummyJSON_Test)** | Positive and negative API scenarios using Python, pytest, reusable fixtures and passing CI |
-| **[QIWI API Tests](https://github.com/Urushihara24/nebus-qiwi-tests)** | Payment-flow checks with Playwright APIRequestContext and a Postman collection |
+| **[DummyJSON API Tests](https://github.com/Urushihara24/DummyJSON_Test)** | API scenarios · pytest · reusable fixtures · CI |
+| **[QIWI API Tests](https://github.com/Urushihara24/nebus-qiwi-tests)** | Payment-flow checks · Playwright APIRequestContext · Postman |
+
+<details>
+<summary><b>🗃️ Older engineering experiments</b></summary>
+
+<br>
+
+The bot / service projects are older experiments from before QA became my main focus. I keep them because they are part of the path, not because they define what I do now.
+
+- **[Monitoring Bot](https://github.com/Urushihara24/monitoring-bot)** — Python service, marketplace integrations, defensive pricing logic and tests.
+- **[Orcestre](https://github.com/Urushihara24/Orcestre)** — Telegram automation, scheduling, persistence and API interaction.
+- **[Exportum Bot](https://github.com/Urushihara24/Exportum_bot)** — Telegram workflow automation for logistics operations.
+
+</details>
 
 ---
 
-## 🧩 How I investigate failures
+## 🧩 Failure map
 
 ```text
-Understand the product and business risk
-                    ↓
-Model critical paths and state transitions
-                    ↓
-Reproduce and isolate the failing layer
-                    ↓
-Collect UI, API, database and log evidence
-                    ↓
-Explain impact, likely cause and release risk
+Something looks wrong
+        ↓
+Reproduce it cleanly
+        ↓
+UI / API / DB / logs / external dependency
+        ↓
+Find where expected state diverges from actual state
+        ↓
+Collect evidence that proves the failure
+        ↓
+Retest the fix and the affected flow
 ```
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Urushihara24&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-*Building, testing and investigating how products really work.*
+*QA first. Python loading.* 🐍
 
 </div>
