@@ -34,7 +34,7 @@ I focus testing on business risk: payments, access control, state transitions an
 | Case study | Scope | Evidence and outcome |
 |---|---|---|
 | **[Telaboro](https://github.com/Urushihara24/Telaboro-QA-Case-)** | Android · Admin panel · API · PostgreSQL · Stripe · Logcat | **150+ test cases**; critical payment and profile failures localized with technical evidence |
-| **[PRTV.pro](https://github.com/Urushihara24/prtv-pro-test-case)** | Web · Mobile · Android TV · Billing · Integrations · Migration | **228 executed cases** across 18 modules; **45 documented defects** |
+| **[PRTV.pro](https://github.com/Urushihara24/prtv-pro-test-case)** | Web · Mobile · Android TV · Billing · Integrations · Migration | **228-case suite** across 18 modules; **45 documented defects** |
 | **[ChatPlace](https://github.com/Urushihara24/chatplace-qa-test)** | Telegram bot · API · Paywall · Traceability | Acceptance criteria mapped to cases, risks and evidence; release recommendation: **NO-GO** |
 | **[Mailshade](https://github.com/Urushihara24/mailshade-qa-case)** | Chrome extension · Exploratory testing · UX · Localization | **19 findings** supported by screenshots, videos, CSV and localization analysis |
 
@@ -75,7 +75,7 @@ I focus testing on business risk: payments, access control, state transitions an
 |---|---|
 | **Testing** | Functional · Exploratory · Regression · Integration · E2E · Risk-based |
 | **API & data** | REST · Swagger/OpenAPI · Postman · SQL · PostgreSQL |
-| **Backend** | Microservices · Kafka · Payments · Third-party integrations |
+| **Backend** | Payments · state transitions · persistence · third-party integrations |
 | **Diagnostics** | DevTools · Kibana · Logcat · Charles Proxy · Request/response analysis |
 | **Learning / automation** | Python · pytest · Playwright · Bash · GitHub Actions |
 | **Delivery** | Git · Docker · Linux · Jira · TestRail · Confluence · CI/CD |
