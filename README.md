@@ -8,7 +8,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&width=780&lines=I+test+products%2C+not+just+interfaces;UI+%E2%80%A2+API+%E2%80%A2+Database+%E2%80%A2+Logs;Mobile+%E2%80%A2+Backend+%E2%80%A2+Payments+%E2%80%A2+Integrations;Python+learning+%E2%80%A2+pytest+%E2%80%A2+Playwright+%E2%80%A2+QA+tooling)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&width=780&lines=I+test+products%2C+not+just+interfaces;UI+%E2%80%A2+API+%E2%80%A2+Database+%E2%80%A2+Logs;Mobile+%E2%80%A2+Backend+%E2%80%A2+Payments+%E2%80%A2+Integrations;Regression+%E2%80%A2+E2E+%E2%80%A2+Exploratory+%E2%80%A2+Evidence)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <br>
 
@@ -29,16 +29,25 @@ I focus testing on business risk: payments, access control, state transitions an
 
 ---
 
-## 🔬 Commercial QA work
+## 🔬 Selected commercial QA projects
 
-Selected paid QA projects with sanitized public-facing artifacts.
+Paid QA work on real products, with public or sanitized artifacts where publication is possible.
 
 | Project | Scope | Evidence and outcome |
 |---|---|---|
-| **[AI SaaS Platform](https://github.com/Urushihara24/commercial-ai-saas-qa)** | AI dialogs · Custom agents · Integrations · Generator · E2E · Responsive | **150+ manual test cases**, **20+ documented defects**, targeted retest and affected regression across critical flows |
-| **[PRTV.pro](https://github.com/Urushihara24/prtv-pro-test-case)** | Web · Mobile · Android TV · Billing · Integrations · Migration | **228-case suite** across 18 modules; **45 documented defects** |
-| **[Telaboro](https://github.com/Urushihara24/Telaboro-QA-Case-)** | Android · Admin panel · API · PostgreSQL · Stripe · Logcat | **150+ test cases**; critical payment and profile failures localized with technical evidence |
-| **[Mailshade](https://github.com/Urushihara24/mailshade-qa-case)** | Chrome extension · Exploratory testing · UX · Localization | **19 findings** supported by screenshots, videos, CSV and localization analysis |
+| **[AI SaaS Platform](https://github.com/Urushihara24/commercial-ai-saas-qa)** | AI runtime · Custom agents · HTTP/OpenAPI integrations · Generator · E2E · Responsive / real-device | **150+ manual test cases** · **20+ defects** · P0/P1 risk coverage · targeted retest and affected regression |
+| **[PRTV.pro](https://github.com/Urushihara24/prtv-pro-test-case)** | Web · Mobile · Android TV · Billing · OAuth/POS integrations · Migration | **228-case suite** · **204 completed** · **45 documented defects** across 18 modules |
+| **[Telaboro](https://github.com/Urushihara24/Telaboro-QA-Case-)** | Android · Admin panel · API · PostgreSQL · Stripe · Logcat | **150+ test cases** · **55 first-run + 18 retest findings** · release-blocking payment/profile defects localized technically |
+| **[Mailshade](https://github.com/Urushihara24/mailshade-qa-case)** | Chrome extension · Gmail · Exploratory · UX · Localization | **19 findings** · screenshots/video/CSV/locale analysis · client-accepted QA report |
+
+<details>
+<summary><b>More commercial QA work</b></summary>
+
+<br>
+
+- **[Android TV Slideshow App](https://github.com/Urushihara24/qa-android-tv-case)** — playback, cache, offline USB mode, collections and scheduled streams; executed cases linked to scenario-based defects and video/runtime evidence.
+
+</details>
 
 ---
 
@@ -78,11 +87,12 @@ Selected paid QA projects with sanitized public-facing artifacts.
 
 <img src="https://img.shields.io/badge/TestRail-Test_Management-65C179?style=flat-square" alt="TestRail">
 <img src="https://img.shields.io/badge/Allure_TestOps-Test_Management-EA4AAA?style=flat-square" alt="Allure TestOps">
+<img src="https://img.shields.io/badge/Google_Sheets-QA_Documentation-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets">
 <img src="https://img.shields.io/badge/GitLab_CI-CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI">
 
 <br><br>
 
-### Python learning & automation
+### Python / QA automation
 
 <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="54" alt="Python" title="Python"></a>&nbsp;&nbsp;
 <a href="https://pytest.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" height="54" alt="pytest" title="pytest"></a>&nbsp;&nbsp;
@@ -103,7 +113,7 @@ Selected paid QA projects with sanitized public-facing artifacts.
 <br>
 
 <details>
-<summary><b>Tools and techniques</b></summary>
+<summary><b>Tools, techniques and product technologies tested</b></summary>
 
 <br>
 
@@ -111,32 +121,31 @@ Selected paid QA projects with sanitized public-facing artifacts.
 |---|---|
 | **Testing** | Functional · Exploratory · Regression · Integration · E2E · Risk-based |
 | **API & data** | REST · Swagger/OpenAPI · Postman · SQL · PostgreSQL |
-| **Backend** | Payments · state transitions · persistence · third-party integrations |
+| **Backend / business logic** | Payments · state transitions · persistence · permissions · third-party integrations |
 | **Diagnostics** | Chrome DevTools · Firefox DevTools · Network · Console · Kibana · Logcat · Charles Proxy · request/response analysis |
-| **Test management** | Jira · TestRail · Allure TestOps · Confluence |
-| **Learning / automation** | Python · pytest · Playwright · Bash · GitHub Actions · GitLab CI |
+| **Test management** | Jira · TestRail · Allure TestOps · Confluence · Google Sheets |
+| **Python / automation** | Python · pytest · Playwright · Bash · GitHub Actions · GitLab CI |
+| **Product technologies tested** | Stripe · OAuth · Firebase/FCM · React Native apps · Socket.IO/WebSockets · Chrome extensions · Android TV · HTTP/OpenAPI integrations |
 | **Delivery** | Git · Docker · Linux · CI/CD |
 
 </details>
 
 ---
 
-## 🐍 Python & automation practice
+## 🐍 Python & QA tooling
 
-Python is my current learning track for QA automation, API checks, fixtures and small test tooling.
+Current direction: Python for API checks, reusable fixtures, browser/API automation and small QA utilities.
 
-| Project | What I'm practicing |
+| Project | Focus |
 |---|---|
-| **[DummyJSON API Tests](https://github.com/Urushihara24/DummyJSON_Test)** | Positive and negative API scenarios using Python, pytest, reusable fixtures and CI |
+| **[DummyJSON API Tests](https://github.com/Urushihara24/DummyJSON_Test)** | Python + pytest API checks, reusable fixtures and CI |
 | **[QIWI API Tests](https://github.com/Urushihara24/nebus-qiwi-tests)** | Payment-flow checks with Playwright APIRequestContext and a Postman collection |
-| **[QA Automation Roadmap](https://github.com/Urushihara24/qa-automation-roadmap)** | Python basics, validation logic and pytest practice |
+| **[QA Automation Roadmap](https://github.com/Urushihara24/qa-automation-roadmap)** | Python fundamentals, validation logic and pytest |
 
 <details>
-<summary><b>Older engineering projects</b></summary>
+<summary><b>Earlier engineering projects</b></summary>
 
 <br>
-
-These are older experiments that I keep as part of the path:
 
 - **[Monitoring Bot](https://github.com/Urushihara24/monitoring-bot)** — marketplace integrations, pricing logic, Docker and pytest coverage.
 - **[Orcestre](https://github.com/Urushihara24/Orcestre)** — Telegram automation, scheduling, persistence and API interaction.
