@@ -31,14 +31,14 @@ I focus testing on business risk: payments, access control, state transitions an
 
 ## 🔬 Commercial QA work
 
-Selected paid QA projects with public, sanitized artifacts.
+Selected paid QA projects with sanitized public-facing artifacts.
 
 | Project | Scope | Evidence and outcome |
 |---|---|---|
+| **[AI SaaS Platform](https://github.com/Urushihara24/commercial-ai-saas-qa)** | AI dialogs · Custom agents · Integrations · Generator · E2E · Responsive | **150+ manual test cases**, **20+ documented defects**, targeted retest and affected regression across critical flows |
 | **[PRTV.pro](https://github.com/Urushihara24/prtv-pro-test-case)** | Web · Mobile · Android TV · Billing · Integrations · Migration | **228-case suite** across 18 modules; **45 documented defects** |
 | **[Telaboro](https://github.com/Urushihara24/Telaboro-QA-Case-)** | Android · Admin panel · API · PostgreSQL · Stripe · Logcat | **150+ test cases**; critical payment and profile failures localized with technical evidence |
 | **[Mailshade](https://github.com/Urushihara24/mailshade-qa-case)** | Chrome extension · Exploratory testing · UX · Localization | **19 findings** supported by screenshots, videos, CSV and localization analysis |
-| **[Android TV Slideshow App](https://github.com/Urushihara24/qa-android-tv-case)** | Android TV · Offline USB · Cache · Collections · Scheduled streams | Executed cases linked to scenario-based defects and runtime/video evidence |
 
 ---
 
