@@ -40,27 +40,61 @@ I focus testing on business risk: payments, access control, state transitions an
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Skills & tools
 
 <div align="center">
 
-### QA, data & systems
+### QA / API / diagnostics
 
-<a href="https://www.postman.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="58" alt="Postman"></a>&nbsp;
-<a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="58" alt="PostgreSQL"></a>&nbsp;
-<a href="https://developer.android.com/studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="58" alt="Android Studio"></a>&nbsp;
-<a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="58" alt="Bash"></a>&nbsp;
-<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="58" alt="Git"></a>&nbsp;
-<a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="58" alt="Linux"></a>
+<a href="https://www.postman.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="54" alt="Postman" title="Postman"></a>&nbsp;&nbsp;
+<a href="https://swagger.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="54" alt="Swagger / OpenAPI" title="Swagger / OpenAPI"></a>&nbsp;&nbsp;
+<a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="54" alt="PostgreSQL" title="PostgreSQL"></a>&nbsp;&nbsp;
+<a href="https://developer.android.com/studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="54" alt="Android Studio" title="Android Studio / Logcat"></a>&nbsp;&nbsp;
+<a href="https://www.google.com/chrome/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" height="54" alt="Chrome DevTools" title="Chrome DevTools"></a>&nbsp;&nbsp;
+<a href="https://www.mozilla.org/firefox/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" height="54" alt="Firefox" title="Firefox"></a>&nbsp;&nbsp;
+<a href="https://www.elastic.co/kibana"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" height="54" alt="Kibana" title="Kibana"></a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Charles_Proxy-Network_Diagnostics-6F42C1?style=flat-square" alt="Charles Proxy">
+<img src="https://img.shields.io/badge/Logcat-Android_Diagnostics-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Logcat">
+<img src="https://img.shields.io/badge/REST-API_Testing-00F0FF?style=flat-square" alt="REST API testing">
+<img src="https://img.shields.io/badge/SQL-Data_Validation-336791?style=flat-square" alt="SQL">
+
+<br><br>
+
+### Test management / delivery
+
+<a href="https://www.atlassian.com/software/jira"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="54" alt="Jira" title="Jira"></a>&nbsp;&nbsp;
+<a href="https://www.atlassian.com/software/confluence"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" height="54" alt="Confluence" title="Confluence"></a>&nbsp;&nbsp;
+<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="54" alt="Git" title="Git"></a>&nbsp;&nbsp;
+<a href="https://gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="54" alt="GitLab" title="GitLab / GitLab CI"></a>&nbsp;&nbsp;
+<a href="https://github.com/features/actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="54" alt="GitHub Actions" title="GitHub Actions"></a>&nbsp;&nbsp;
+<a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="54" alt="Linux" title="Linux"></a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/TestRail-Test_Management-65C179?style=flat-square" alt="TestRail">
+<img src="https://img.shields.io/badge/Allure_TestOps-Test_Management-EA4AAA?style=flat-square" alt="Allure TestOps">
+<img src="https://img.shields.io/badge/GitLab_CI-CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI">
 
 <br><br>
 
 ### Python learning & automation
 
-<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="58" alt="Python"></a>&nbsp;
-<a href="https://pytest.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" height="58" alt="pytest"></a>&nbsp;
-<a href="https://playwright.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="58" alt="Playwright"></a>&nbsp;
-<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="58" alt="Docker"></a>
+<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="54" alt="Python" title="Python"></a>&nbsp;&nbsp;
+<a href="https://pytest.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" height="54" alt="pytest" title="pytest"></a>&nbsp;&nbsp;
+<a href="https://playwright.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="54" alt="Playwright" title="Playwright"></a>&nbsp;&nbsp;
+<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="54" alt="Docker" title="Docker"></a>&nbsp;&nbsp;
+<a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="54" alt="Bash" title="Bash"></a>
+
+<br><br>
+
+### Platforms / environments
+
+<img src="https://img.shields.io/badge/Web-Chrome_%2F_Firefox-00F0FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Web">
+<img src="https://img.shields.io/badge/Android-Mobile_%2F_TV-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android and Android TV">
+<img src="https://img.shields.io/badge/iOS-Safari-8B5CF6?style=flat-square&logo=safari&logoColor=white" alt="iOS Safari">
 
 </div>
 
@@ -76,9 +110,10 @@ I focus testing on business risk: payments, access control, state transitions an
 | **Testing** | Functional · Exploratory · Regression · Integration · E2E · Risk-based |
 | **API & data** | REST · Swagger/OpenAPI · Postman · SQL · PostgreSQL |
 | **Backend** | Payments · state transitions · persistence · third-party integrations |
-| **Diagnostics** | DevTools · Kibana · Logcat · Charles Proxy · Request/response analysis |
-| **Learning / automation** | Python · pytest · Playwright · Bash · GitHub Actions |
-| **Delivery** | Git · Docker · Linux · Jira · TestRail · Confluence · CI/CD |
+| **Diagnostics** | Chrome DevTools · Firefox DevTools · Network · Console · Kibana · Logcat · Charles Proxy · request/response analysis |
+| **Test management** | Jira · TestRail · Allure TestOps · Confluence |
+| **Learning / automation** | Python · pytest · Playwright · Bash · GitHub Actions · GitLab CI |
+| **Delivery** | Git · Docker · Linux · CI/CD |
 
 </details>
 
