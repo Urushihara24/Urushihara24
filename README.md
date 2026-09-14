@@ -29,14 +29,16 @@ I focus testing on business risk: payments, access control, state transitions an
 
 ---
 
-## 🔬 Featured QA work
+## 🔬 Commercial QA work
 
-| Case study | Scope | Evidence and outcome |
+Selected paid QA projects with public, sanitized artifacts.
+
+| Project | Scope | Evidence and outcome |
 |---|---|---|
-| **[Telaboro](https://github.com/Urushihara24/Telaboro-QA-Case-)** | Android · Admin panel · API · PostgreSQL · Stripe · Logcat | **150+ test cases**; critical payment and profile failures localized with technical evidence |
 | **[PRTV.pro](https://github.com/Urushihara24/prtv-pro-test-case)** | Web · Mobile · Android TV · Billing · Integrations · Migration | **228-case suite** across 18 modules; **45 documented defects** |
-| **[ChatPlace](https://github.com/Urushihara24/chatplace-qa-test)** | Telegram bot · API · Paywall · Traceability | Acceptance criteria mapped to cases, risks and evidence; release recommendation: **NO-GO** |
+| **[Telaboro](https://github.com/Urushihara24/Telaboro-QA-Case-)** | Android · Admin panel · API · PostgreSQL · Stripe · Logcat | **150+ test cases**; critical payment and profile failures localized with technical evidence |
 | **[Mailshade](https://github.com/Urushihara24/mailshade-qa-case)** | Chrome extension · Exploratory testing · UX · Localization | **19 findings** supported by screenshots, videos, CSV and localization analysis |
+| **[Android TV Slideshow App](https://github.com/Urushihara24/qa-android-tv-case)** | Android TV · Offline USB · Cache · Collections · Scheduled streams | Executed cases linked to scenario-based defects and runtime/video evidence |
 
 ---
 
