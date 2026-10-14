@@ -6,7 +6,7 @@
 
 I test products end to end: **UI → API → database → logs → integrations → failure recovery**.
 
-[Portfolio](https://vsevolodqa.ru/) · [Telegram](https://t.me/urushihara24) · [LinkedIn](https://www.linkedin.com/in/vsevolod-samoylov)
+[Portfolio](https://vsevolodqa.ru/) · [Telegram](https://t.me/vsevolod_qa) · [LinkedIn](https://www.linkedin.com/in/vsevolod-samoylov)
 
 </div>
 
@@ -96,6 +96,6 @@ Release decision / regression scope
 
 ### QA that connects visible failures to technical evidence.
 
-[🌐 vsevolodqa.ru](https://vsevolodqa.ru/) · [💬 Telegram](https://t.me/urushihara24)
+[🌐 vsevolodqa.ru](https://vsevolodqa.ru/) · [💬 Telegram](https://t.me/vsevolod_qa)
 
 </div>
