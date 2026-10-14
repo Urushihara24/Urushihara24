@@ -2,177 +2,100 @@
 
 # 👋 Vsevolod Samoylov
 
-### QA Engineer · API · Backend · Mobile · Integrations
+### QA Engineer · Python · API · Backend · Automation
 
-<img src="https://github.com/user-attachments/assets/f3563df6-be53-4aba-ba97-0066c985e09e" width="100%" alt="Pixel art coding animation">
+I test products end to end: **UI → API → database → logs → integrations → failure recovery**.
 
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&width=780&lines=I+test+products%2C+not+just+interfaces;UI+%E2%80%A2+API+%E2%80%A2+Database+%E2%80%A2+Logs;Mobile+%E2%80%A2+Backend+%E2%80%A2+Payments+%E2%80%A2+Integrations;Regression+%E2%80%A2+E2E+%E2%80%A2+Exploratory+%E2%80%A2+Evidence)](https://github.com/DenverCoder1/readme-typing-svg)
-
-<br>
-
-[LinkedIn](https://www.linkedin.com/in/vsevolod-samoylov) · [Telegram](https://t.me/urushihara24)
+[Portfolio](https://vsevolodqa.ru/) · [Telegram](https://t.me/vsevolod_qa) · [LinkedIn](https://www.linkedin.com/in/vsevolod-samoylov)
 
 </div>
 
 ---
 
-## 🧭 About me
+## ⭐ Featured open-source project
 
-I'm a **QA Engineer** who investigates products end to end — from the interface down to API contracts, databases, logs, asynchronous flows and third-party integrations.
+### [Auto-Pricing Bot — GGSEL + DigiSeller](https://github.com/Urushihara24/monitoring-bot)
 
-I focus testing on business risk: payments, access control, state transitions and failure recovery. My reports connect a visible symptom to technical evidence and a clear release decision.
+Python/Telegram automation for marketplace sellers: competitor-price monitoring, automatic repricing, seller API integrations, product-level state, safeguards, diagnostics, Docker deployment and pytest coverage.
 
-> **Good testing is not about clicking through every screen.**<br>
-> It's about understanding what can break — and proving what actually broke.
+**Why it is interesting technically:**
+- multiple marketplace profiles with independent configuration;
+- price floors, cooldowns, rate limits and idempotent updates;
+- resilient competitor parsing with fallbacks;
+- Telegram operations and diagnostics;
+- Docker + GitHub Actions + automated tests.
+
+> If this project is useful to you, a ⭐ helps other developers find it.
+
+[Repository →](https://github.com/Urushihara24/monitoring-bot) · [Customer guide →](https://github.com/Urushihara24/monitoring-bot/blob/main/INSTRUCTION_CUSTOMER.md) · [Deployment →](https://github.com/Urushihara24/monitoring-bot/blob/main/DEPLOY.md)
 
 ---
 
-## 🔬 Selected commercial QA projects
+## 🔬 Commercial QA case studies
 
-Paid QA work on real products, with public or sanitized artifacts where publication is possible.
+Sanitized evidence from real paid QA engagements.
 
-| Project | Scope | Evidence and outcome |
+| Project | Scope | Result |
 |---|---|---|
-| **[AI SaaS Platform](https://github.com/Urushihara24/commercial-ai-saas-qa)** | AI runtime · Custom agents · HTTP/OpenAPI integrations · Generator · E2E · Responsive / real-device | **150+ manual test cases** · **20+ defects** · P0/P1 risk coverage · targeted retest and affected regression |
-| **[PRTV.pro](https://github.com/Urushihara24/prtv-pro-test-case)** | Web · Mobile · Android TV · Billing · OAuth/POS integrations · Migration | **228-case suite** · **204 completed** · **45 documented defects** across 18 modules |
-| **[Telaboro](https://github.com/Urushihara24/Telaboro-QA-Case-)** | Android · Admin panel · API · PostgreSQL · Stripe · Logcat | **150+ test cases** · **55 first-run + 18 retest findings** · release-blocking payment/profile defects localized technically |
-| **[Mailshade](https://github.com/Urushihara24/mailshade-qa-case)** | Chrome extension · Gmail · Exploratory · UX · Localization | **19 findings** · screenshots/video/CSV/locale analysis · client-accepted QA report |
-
-<details>
-<summary><b>More commercial QA work</b></summary>
-
-<br>
-
-- **[Android TV Slideshow App](https://github.com/Urushihara24/qa-android-tv-case)** — playback, cache, offline USB mode, collections and scheduled streams; executed cases linked to scenario-based defects and video/runtime evidence.
-
-</details>
+| **[AI SaaS Platform](https://github.com/Urushihara24/commercial-ai-saas-qa)** | AI runtime · agents · HTTP/OpenAPI integrations · responsive/E2E | **150+ checks**, **20+ defects**, P0/P1 risk coverage |
+| **[PRTV.pro](https://github.com/Urushihara24/prtv-pro-test-case)** | Web · Mobile · Android TV · billing · OAuth/POS · migration | **228-case suite**, **45 defects** |
+| **[Telaboro](https://github.com/Urushihara24/Telaboro-QA-Case-)** | Android · Admin · API · PostgreSQL · Stripe · Logcat | **150+ cases**, release-blocking payment/profile defects isolated |
+| **[Mailshade](https://github.com/Urushihara24/mailshade-qa-case)** | Chrome extension · Gmail · exploratory · UX · localization | **19 findings**, screenshots/video/CSV evidence |
+| **[Android TV QA](https://github.com/Urushihara24/qa-android-tv-case)** | Playback · cache · offline USB · schedules | scenario-based defects with runtime evidence |
 
 ---
 
-## 🛠️ Skills & tools
+## 🐍 Python & automation projects
 
-<div align="center">
+### [DummyJSON API Tests](https://github.com/Urushihara24/DummyJSON_Test)
+Python + pytest API test project with reusable fixtures, auth/cart scenarios, negative coverage and CI.
 
-### QA / API / diagnostics
+### [QIWI API Tests](https://github.com/Urushihara24/nebus-qiwi-tests)
+Payment/API checks using Playwright `APIRequestContext` plus a Postman collection.
 
-<a href="https://www.postman.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="54" alt="Postman" title="Postman"></a>&nbsp;&nbsp;
-<a href="https://swagger.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="54" alt="Swagger / OpenAPI" title="Swagger / OpenAPI"></a>&nbsp;&nbsp;
-<a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="54" alt="PostgreSQL" title="PostgreSQL"></a>&nbsp;&nbsp;
-<a href="https://developer.android.com/studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="54" alt="Android Studio" title="Android Studio / Logcat"></a>&nbsp;&nbsp;
-<a href="https://www.google.com/chrome/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" height="54" alt="Chrome DevTools" title="Chrome DevTools"></a>&nbsp;&nbsp;
-<a href="https://www.mozilla.org/firefox/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" height="54" alt="Firefox" title="Firefox"></a>&nbsp;&nbsp;
-<a href="https://www.elastic.co/kibana"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" height="54" alt="Kibana" title="Kibana"></a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Charles_Proxy-Network_Diagnostics-6F42C1?style=flat-square" alt="Charles Proxy">
-<img src="https://img.shields.io/badge/Logcat-Android_Diagnostics-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Logcat">
-<img src="https://img.shields.io/badge/REST-API_Testing-00F0FF?style=flat-square" alt="REST API testing">
-<img src="https://img.shields.io/badge/SQL-Data_Validation-336791?style=flat-square" alt="SQL">
-
-<br><br>
-
-### Test management / delivery
-
-<a href="https://www.atlassian.com/software/jira"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="54" alt="Jira" title="Jira"></a>&nbsp;&nbsp;
-<a href="https://www.atlassian.com/software/confluence"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" height="54" alt="Confluence" title="Confluence"></a>&nbsp;&nbsp;
-<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="54" alt="Git" title="Git"></a>&nbsp;&nbsp;
-<a href="https://gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="54" alt="GitLab" title="GitLab / GitLab CI"></a>&nbsp;&nbsp;
-<a href="https://github.com/features/actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="54" alt="GitHub Actions" title="GitHub Actions"></a>&nbsp;&nbsp;
-<a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="54" alt="Linux" title="Linux"></a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/TestRail-Test_Management-65C179?style=flat-square" alt="TestRail">
-<img src="https://img.shields.io/badge/Allure_TestOps-Test_Management-EA4AAA?style=flat-square" alt="Allure TestOps">
-<img src="https://img.shields.io/badge/Google_Sheets-QA_Documentation-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets">
-<img src="https://img.shields.io/badge/GitLab_CI-CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI">
-
-<br><br>
-
-### Python / QA automation
-
-<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="54" alt="Python" title="Python"></a>&nbsp;&nbsp;
-<a href="https://pytest.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" height="54" alt="pytest" title="pytest"></a>&nbsp;&nbsp;
-<a href="https://playwright.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="54" alt="Playwright" title="Playwright"></a>&nbsp;&nbsp;
-<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="54" alt="Docker" title="Docker"></a>&nbsp;&nbsp;
-<a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="54" alt="Bash" title="Bash"></a>
-
-<br><br>
-
-### Platforms / environments
-
-<img src="https://img.shields.io/badge/Web-Chrome_%2F_Firefox-00F0FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Web">
-<img src="https://img.shields.io/badge/Android-Mobile_%2F_TV-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android and Android TV">
-<img src="https://img.shields.io/badge/iOS-Safari-8B5CF6?style=flat-square&logo=safari&logoColor=white" alt="iOS Safari">
-
-</div>
-
-<br>
-
-<details>
-<summary><b>Tools, techniques and product technologies tested</b></summary>
-
-<br>
-
-| Area | Tools and techniques |
-|---|---|
-| **Testing** | Functional · Exploratory · Regression · Integration · E2E · Risk-based |
-| **API & data** | REST · Swagger/OpenAPI · Postman · SQL · PostgreSQL |
-| **Backend / business logic** | Payments · state transitions · persistence · permissions · third-party integrations |
-| **Diagnostics** | Chrome DevTools · Firefox DevTools · Network · Console · Kibana · Logcat · Charles Proxy · request/response analysis |
-| **Test management** | Jira · TestRail · Allure TestOps · Confluence · Google Sheets |
-| **Python / automation** | Python · pytest · Playwright · Bash · GitHub Actions · GitLab CI |
-| **Product technologies tested** | Stripe · OAuth · Firebase/FCM · React Native apps · Socket.IO/WebSockets · Chrome extensions · Android TV · HTTP/OpenAPI integrations |
-| **Delivery** | Git · Docker · Linux · CI/CD |
-
-</details>
+### [Exportum Bot](https://github.com/Urushihara24/Exportum_bot)
+Telegram workflow automation for grain-trading operations using Python, FSM, parsing and Google Sheets integration.
 
 ---
 
-## 🐍 Python & QA tooling
+## 🧰 Core stack
 
-Current direction: Python for API checks, reusable fixtures, browser/API automation and small QA utilities.
+`Python` · `pytest` · `Playwright` · `Postman` · `REST API` · `PostgreSQL` · `SQL` · `Docker` · `GitHub Actions` · `GitLab CI` · `Linux`
 
-| Project | Focus |
-|---|---|
-| **[DummyJSON API Tests](https://github.com/Urushihara24/DummyJSON_Test)** | Python + pytest API checks, reusable fixtures and CI |
-| **[QIWI API Tests](https://github.com/Urushihara24/nebus-qiwi-tests)** | Payment-flow checks with Playwright APIRequestContext and a Postman collection |
-| **[QA Automation Roadmap](https://github.com/Urushihara24/qa-automation-roadmap)** | Python fundamentals, validation logic and pytest |
-
-<details>
-<summary><b>Earlier engineering projects</b></summary>
-
-<br>
-
-- **[Monitoring Bot](https://github.com/Urushihara24/monitoring-bot)** — marketplace integrations, pricing logic, Docker and pytest coverage.
-- **[Orcestre](https://github.com/Urushihara24/Orcestre)** — Telegram automation, scheduling, persistence and API interaction.
-- **[Exportum Bot](https://github.com/Urushihara24/Exportum_bot)** — Telegram workflow automation for logistics operations.
-
-</details>
+`Jira` · `TestRail` · `Allure` · `Swagger/OpenAPI` · `Kibana` · `Charles Proxy` · `Android Studio / Logcat`
 
 ---
 
-## 🧩 How I investigate failures
+## 🧭 How I investigate failures
 
 ```text
-Understand the product and business risk
-                    ↓
-Model critical paths and state transitions
-                    ↓
-Reproduce and isolate the failing layer
-                    ↓
-Collect UI, API, database and log evidence
-                    ↓
-Explain impact, likely cause and release risk
+Business risk
+    ↓
+Critical path / state transition
+    ↓
+Reproduce
+    ↓
+UI + API + DB + logs evidence
+    ↓
+Root-cause hypothesis
+    ↓
+Release decision / regression scope
 ```
+
+---
+
+## 📌 What to look at first
+
+1. **[monitoring-bot](https://github.com/Urushihara24/monitoring-bot)** — strongest engineering project.
+2. **[commercial-ai-saas-qa](https://github.com/Urushihara24/commercial-ai-saas-qa)** — commercial QA methodology and evidence.
+3. **[DummyJSON_Test](https://github.com/Urushihara24/DummyJSON_Test)** — clean Python API-test example.
+4. **[Telaboro-QA-Case-](https://github.com/Urushihara24/Telaboro-QA-Case-)** — mobile/API/payment QA case study.
+5. **[Exportum_bot](https://github.com/Urushihara24/Exportum_bot)** — practical Telegram automation.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Urushihara24&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+### QA that connects visible failures to technical evidence.
 
-*Building, testing and investigating how products really work.*
+[🌐 vsevolodqa.ru](https://vsevolodqa.ru/) · [💬 Telegram](https://t.me/vsevolod_qa)
 
 </div>
