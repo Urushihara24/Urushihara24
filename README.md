@@ -31,7 +31,7 @@ Python/Telegram automation for marketplace sellers: competitor-price monitoring,
 
 ---
 
-## 🔬 Commercial QA case studies
+## 🔬 Commercial QA case 
 
 Sanitized evidence from real paid QA engagements.
 
