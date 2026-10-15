@@ -166,7 +166,7 @@ Make a release decision
 2. **[commercial-ai-saas-qa](https://github.com/Urushihara24/commercial-ai-saas-qa)** — commercial QA methodology, E2E coverage and sanitized defect evidence.
 3. **[Telaboro-QA-Case-](https://github.com/Urushihara24/Telaboro-QA-Case-)** — Android/API/payment investigation with Logcat evidence.
 4. **[PRTV.pro](https://github.com/Urushihara24/prtv-pro-test-case)** — broad release-readiness assessment across Web/Mobile/TV.
-5. **[DummyJSON_Test](https://github.com/Urushihara24/DummyJSON_Test)** — compact API automation example with live CI.
+5. **[Exportum Bot](https://github.com/Urushihara24/Exportum_bot)** — production Telegram automation for agricultural logistics workflows, multi-role state transitions, reporting and CI.
 
 <div align="center">
 
