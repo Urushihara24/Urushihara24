@@ -33,6 +33,15 @@ My strongest area is production-oriented manual QA with technical diagnostics: p
 
 ### [Auto-Pricing Bot — GGSEL + DigiSeller](https://github.com/Urushihara24/monitoring-bot)
 
+<div align="center">
+
+[![Release](https://img.shields.io/github/v/release/Urushihara24/monitoring-bot?style=for-the-badge&label=Stable)](https://github.com/Urushihara24/monitoring-bot/releases/latest)
+[![CI](https://img.shields.io/github/actions/workflow/status/Urushihara24/monitoring-bot/ci.yml?branch=main&style=for-the-badge&label=CI)](https://github.com/Urushihara24/monitoring-bot/actions/workflows/ci.yml)
+[![Security](https://img.shields.io/github/actions/workflow/status/Urushihara24/monitoring-bot/security.yml?branch=main&style=for-the-badge&label=Security)](https://github.com/Urushihara24/monitoring-bot/actions/workflows/security.yml)
+[![MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/Urushihara24/monitoring-bot/blob/main/LICENSE)
+
+</div>
+
 Open-source Python automation for marketplace sellers: competitor monitoring, seller-side repricing, order-chat operations and Telegram control.
 
 **Stack:** Python · Telegram Bot API · GGSEL/DigiSeller APIs · SQLite · Docker · GitHub Actions · pytest
@@ -44,7 +53,7 @@ Open-source Python automation for marketplace sellers: competitor monitoring, se
 - fail-closed `DRY_RUN` boundary;
 - non-root Docker runtime, health checks, CI and security verification.
 
-[Repository →](https://github.com/Urushihara24/monitoring-bot) · [Operations →](https://github.com/Urushihara24/monitoring-bot/blob/main/OPERATIONS.md) · [Architecture →](https://github.com/Urushihara24/monitoring-bot/blob/main/docs/ARCHITECTURE.md)
+[Repository →](https://github.com/Urushihara24/monitoring-bot) · [Stable release →](https://github.com/Urushihara24/monitoring-bot/releases/latest) · [Safe demo →](https://github.com/Urushihara24/monitoring-bot#try-it-safely--no-seller-credentials) · [Architecture →](https://github.com/Urushihara24/monitoring-bot/blob/main/docs/ARCHITECTURE.md)
 
 ---
 
